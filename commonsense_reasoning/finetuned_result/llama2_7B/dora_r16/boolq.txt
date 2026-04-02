@@ -1,0 +1,1722 @@
+/scratch/hwan783/homework/DoRA/commonsense_reasoning/dora_com_venv/lib/python3.10/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+model.layers.0.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.0.self_attn.q_proj.lora_A.weight is trainable
+model.layers.0.self_attn.q_proj.lora_B.weight is trainable
+model.layers.0.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.0.self_attn.k_proj.lora_A.weight is trainable
+model.layers.0.self_attn.k_proj.lora_B.weight is trainable
+model.layers.0.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.0.self_attn.v_proj.lora_A.weight is trainable
+model.layers.0.self_attn.v_proj.lora_B.weight is trainable
+model.layers.0.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.0.mlp.up_proj.lora_A.weight is trainable
+model.layers.0.mlp.up_proj.lora_B.weight is trainable
+model.layers.0.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.0.mlp.down_proj.lora_A.weight is trainable
+model.layers.0.mlp.down_proj.lora_B.weight is trainable
+model.layers.1.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.1.self_attn.q_proj.lora_A.weight is trainable
+model.layers.1.self_attn.q_proj.lora_B.weight is trainable
+model.layers.1.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.1.self_attn.k_proj.lora_A.weight is trainable
+model.layers.1.self_attn.k_proj.lora_B.weight is trainable
+model.layers.1.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.1.self_attn.v_proj.lora_A.weight is trainable
+model.layers.1.self_attn.v_proj.lora_B.weight is trainable
+model.layers.1.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.1.mlp.up_proj.lora_A.weight is trainable
+model.layers.1.mlp.up_proj.lora_B.weight is trainable
+model.layers.1.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.1.mlp.down_proj.lora_A.weight is trainable
+model.layers.1.mlp.down_proj.lora_B.weight is trainable
+model.layers.2.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.2.self_attn.q_proj.lora_A.weight is trainable
+model.layers.2.self_attn.q_proj.lora_B.weight is trainable
+model.layers.2.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.2.self_attn.k_proj.lora_A.weight is trainable
+model.layers.2.self_attn.k_proj.lora_B.weight is trainable
+model.layers.2.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.2.self_attn.v_proj.lora_A.weight is trainable
+model.layers.2.self_attn.v_proj.lora_B.weight is trainable
+model.layers.2.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.2.mlp.up_proj.lora_A.weight is trainable
+model.layers.2.mlp.up_proj.lora_B.weight is trainable
+model.layers.2.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.2.mlp.down_proj.lora_A.weight is trainable
+model.layers.2.mlp.down_proj.lora_B.weight is trainable
+model.layers.3.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.3.self_attn.q_proj.lora_A.weight is trainable
+model.layers.3.self_attn.q_proj.lora_B.weight is trainable
+model.layers.3.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.3.self_attn.k_proj.lora_A.weight is trainable
+model.layers.3.self_attn.k_proj.lora_B.weight is trainable
+model.layers.3.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.3.self_attn.v_proj.lora_A.weight is trainable
+model.layers.3.self_attn.v_proj.lora_B.weight is trainable
+model.layers.3.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.3.mlp.up_proj.lora_A.weight is trainable
+model.layers.3.mlp.up_proj.lora_B.weight is trainable
+model.layers.3.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.3.mlp.down_proj.lora_A.weight is trainable
+model.layers.3.mlp.down_proj.lora_B.weight is trainable
+model.layers.4.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.4.self_attn.q_proj.lora_A.weight is trainable
+model.layers.4.self_attn.q_proj.lora_B.weight is trainable
+model.layers.4.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.4.self_attn.k_proj.lora_A.weight is trainable
+model.layers.4.self_attn.k_proj.lora_B.weight is trainable
+model.layers.4.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.4.self_attn.v_proj.lora_A.weight is trainable
+model.layers.4.self_attn.v_proj.lora_B.weight is trainable
+model.layers.4.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.4.mlp.up_proj.lora_A.weight is trainable
+model.layers.4.mlp.up_proj.lora_B.weight is trainable
+model.layers.4.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.4.mlp.down_proj.lora_A.weight is trainable
+model.layers.4.mlp.down_proj.lora_B.weight is trainable
+model.layers.5.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.5.self_attn.q_proj.lora_A.weight is trainable
+model.layers.5.self_attn.q_proj.lora_B.weight is trainable
+model.layers.5.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.5.self_attn.k_proj.lora_A.weight is trainable
+model.layers.5.self_attn.k_proj.lora_B.weight is trainable
+model.layers.5.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.5.self_attn.v_proj.lora_A.weight is trainable
+model.layers.5.self_attn.v_proj.lora_B.weight is trainable
+model.layers.5.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.5.mlp.up_proj.lora_A.weight is trainable
+model.layers.5.mlp.up_proj.lora_B.weight is trainable
+model.layers.5.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.5.mlp.down_proj.lora_A.weight is trainable
+model.layers.5.mlp.down_proj.lora_B.weight is trainable
+model.layers.6.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.6.self_attn.q_proj.lora_A.weight is trainable
+model.layers.6.self_attn.q_proj.lora_B.weight is trainable
+model.layers.6.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.6.self_attn.k_proj.lora_A.weight is trainable
+model.layers.6.self_attn.k_proj.lora_B.weight is trainable
+model.layers.6.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.6.self_attn.v_proj.lora_A.weight is trainable
+model.layers.6.self_attn.v_proj.lora_B.weight is trainable
+model.layers.6.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.6.mlp.up_proj.lora_A.weight is trainable
+model.layers.6.mlp.up_proj.lora_B.weight is trainable
+model.layers.6.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.6.mlp.down_proj.lora_A.weight is trainable
+model.layers.6.mlp.down_proj.lora_B.weight is trainable
+model.layers.7.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.7.self_attn.q_proj.lora_A.weight is trainable
+model.layers.7.self_attn.q_proj.lora_B.weight is trainable
+model.layers.7.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.7.self_attn.k_proj.lora_A.weight is trainable
+model.layers.7.self_attn.k_proj.lora_B.weight is trainable
+model.layers.7.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.7.self_attn.v_proj.lora_A.weight is trainable
+model.layers.7.self_attn.v_proj.lora_B.weight is trainable
+model.layers.7.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.7.mlp.up_proj.lora_A.weight is trainable
+model.layers.7.mlp.up_proj.lora_B.weight is trainable
+model.layers.7.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.7.mlp.down_proj.lora_A.weight is trainable
+model.layers.7.mlp.down_proj.lora_B.weight is trainable
+model.layers.8.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.8.self_attn.q_proj.lora_A.weight is trainable
+model.layers.8.self_attn.q_proj.lora_B.weight is trainable
+model.layers.8.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.8.self_attn.k_proj.lora_A.weight is trainable
+model.layers.8.self_attn.k_proj.lora_B.weight is trainable
+model.layers.8.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.8.self_attn.v_proj.lora_A.weight is trainable
+model.layers.8.self_attn.v_proj.lora_B.weight is trainable
+model.layers.8.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.8.mlp.up_proj.lora_A.weight is trainable
+model.layers.8.mlp.up_proj.lora_B.weight is trainable
+model.layers.8.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.8.mlp.down_proj.lora_A.weight is trainable
+model.layers.8.mlp.down_proj.lora_B.weight is trainable
+model.layers.9.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.9.self_attn.q_proj.lora_A.weight is trainable
+model.layers.9.self_attn.q_proj.lora_B.weight is trainable
+model.layers.9.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.9.self_attn.k_proj.lora_A.weight is trainable
+model.layers.9.self_attn.k_proj.lora_B.weight is trainable
+model.layers.9.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.9.self_attn.v_proj.lora_A.weight is trainable
+model.layers.9.self_attn.v_proj.lora_B.weight is trainable
+model.layers.9.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.9.mlp.up_proj.lora_A.weight is trainable
+model.layers.9.mlp.up_proj.lora_B.weight is trainable
+model.layers.9.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.9.mlp.down_proj.lora_A.weight is trainable
+model.layers.9.mlp.down_proj.lora_B.weight is trainable
+model.layers.10.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.10.self_attn.q_proj.lora_A.weight is trainable
+model.layers.10.self_attn.q_proj.lora_B.weight is trainable
+model.layers.10.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.10.self_attn.k_proj.lora_A.weight is trainable
+model.layers.10.self_attn.k_proj.lora_B.weight is trainable
+model.layers.10.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.10.self_attn.v_proj.lora_A.weight is trainable
+model.layers.10.self_attn.v_proj.lora_B.weight is trainable
+model.layers.10.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.10.mlp.up_proj.lora_A.weight is trainable
+model.layers.10.mlp.up_proj.lora_B.weight is trainable
+model.layers.10.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.10.mlp.down_proj.lora_A.weight is trainable
+model.layers.10.mlp.down_proj.lora_B.weight is trainable
+model.layers.11.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.11.self_attn.q_proj.lora_A.weight is trainable
+model.layers.11.self_attn.q_proj.lora_B.weight is trainable
+model.layers.11.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.11.self_attn.k_proj.lora_A.weight is trainable
+model.layers.11.self_attn.k_proj.lora_B.weight is trainable
+model.layers.11.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.11.self_attn.v_proj.lora_A.weight is trainable
+model.layers.11.self_attn.v_proj.lora_B.weight is trainable
+model.layers.11.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.11.mlp.up_proj.lora_A.weight is trainable
+model.layers.11.mlp.up_proj.lora_B.weight is trainable
+model.layers.11.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.11.mlp.down_proj.lora_A.weight is trainable
+model.layers.11.mlp.down_proj.lora_B.weight is trainable
+model.layers.12.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.12.self_attn.q_proj.lora_A.weight is trainable
+model.layers.12.self_attn.q_proj.lora_B.weight is trainable
+model.layers.12.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.12.self_attn.k_proj.lora_A.weight is trainable
+model.layers.12.self_attn.k_proj.lora_B.weight is trainable
+model.layers.12.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.12.self_attn.v_proj.lora_A.weight is trainable
+model.layers.12.self_attn.v_proj.lora_B.weight is trainable
+model.layers.12.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.12.mlp.up_proj.lora_A.weight is trainable
+model.layers.12.mlp.up_proj.lora_B.weight is trainable
+model.layers.12.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.12.mlp.down_proj.lora_A.weight is trainable
+model.layers.12.mlp.down_proj.lora_B.weight is trainable
+model.layers.13.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.13.self_attn.q_proj.lora_A.weight is trainable
+model.layers.13.self_attn.q_proj.lora_B.weight is trainable
+model.layers.13.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.13.self_attn.k_proj.lora_A.weight is trainable
+model.layers.13.self_attn.k_proj.lora_B.weight is trainable
+model.layers.13.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.13.self_attn.v_proj.lora_A.weight is trainable
+model.layers.13.self_attn.v_proj.lora_B.weight is trainable
+model.layers.13.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.13.mlp.up_proj.lora_A.weight is trainable
+model.layers.13.mlp.up_proj.lora_B.weight is trainable
+model.layers.13.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.13.mlp.down_proj.lora_A.weight is trainable
+model.layers.13.mlp.down_proj.lora_B.weight is trainable
+model.layers.14.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.14.self_attn.q_proj.lora_A.weight is trainable
+model.layers.14.self_attn.q_proj.lora_B.weight is trainable
+model.layers.14.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.14.self_attn.k_proj.lora_A.weight is trainable
+model.layers.14.self_attn.k_proj.lora_B.weight is trainable
+model.layers.14.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.14.self_attn.v_proj.lora_A.weight is trainable
+model.layers.14.self_attn.v_proj.lora_B.weight is trainable
+model.layers.14.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.14.mlp.up_proj.lora_A.weight is trainable
+model.layers.14.mlp.up_proj.lora_B.weight is trainable
+model.layers.14.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.14.mlp.down_proj.lora_A.weight is trainable
+model.layers.14.mlp.down_proj.lora_B.weight is trainable
+model.layers.15.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.15.self_attn.q_proj.lora_A.weight is trainable
+model.layers.15.self_attn.q_proj.lora_B.weight is trainable
+model.layers.15.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.15.self_attn.k_proj.lora_A.weight is trainable
+model.layers.15.self_attn.k_proj.lora_B.weight is trainable
+model.layers.15.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.15.self_attn.v_proj.lora_A.weight is trainable
+model.layers.15.self_attn.v_proj.lora_B.weight is trainable
+model.layers.15.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.15.mlp.up_proj.lora_A.weight is trainable
+model.layers.15.mlp.up_proj.lora_B.weight is trainable
+model.layers.15.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.15.mlp.down_proj.lora_A.weight is trainable
+model.layers.15.mlp.down_proj.lora_B.weight is trainable
+model.layers.16.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.16.self_attn.q_proj.lora_A.weight is trainable
+model.layers.16.self_attn.q_proj.lora_B.weight is trainable
+model.layers.16.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.16.self_attn.k_proj.lora_A.weight is trainable
+model.layers.16.self_attn.k_proj.lora_B.weight is trainable
+model.layers.16.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.16.self_attn.v_proj.lora_A.weight is trainable
+model.layers.16.self_attn.v_proj.lora_B.weight is trainable
+model.layers.16.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.16.mlp.up_proj.lora_A.weight is trainable
+model.layers.16.mlp.up_proj.lora_B.weight is trainable
+model.layers.16.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.16.mlp.down_proj.lora_A.weight is trainable
+model.layers.16.mlp.down_proj.lora_B.weight is trainable
+model.layers.17.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.17.self_attn.q_proj.lora_A.weight is trainable
+model.layers.17.self_attn.q_proj.lora_B.weight is trainable
+model.layers.17.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.17.self_attn.k_proj.lora_A.weight is trainable
+model.layers.17.self_attn.k_proj.lora_B.weight is trainable
+model.layers.17.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.17.self_attn.v_proj.lora_A.weight is trainable
+model.layers.17.self_attn.v_proj.lora_B.weight is trainable
+model.layers.17.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.17.mlp.up_proj.lora_A.weight is trainable
+model.layers.17.mlp.up_proj.lora_B.weight is trainable
+model.layers.17.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.17.mlp.down_proj.lora_A.weight is trainable
+model.layers.17.mlp.down_proj.lora_B.weight is trainable
+model.layers.18.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.18.self_attn.q_proj.lora_A.weight is trainable
+model.layers.18.self_attn.q_proj.lora_B.weight is trainable
+model.layers.18.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.18.self_attn.k_proj.lora_A.weight is trainable
+model.layers.18.self_attn.k_proj.lora_B.weight is trainable
+model.layers.18.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.18.self_attn.v_proj.lora_A.weight is trainable
+model.layers.18.self_attn.v_proj.lora_B.weight is trainable
+model.layers.18.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.18.mlp.up_proj.lora_A.weight is trainable
+model.layers.18.mlp.up_proj.lora_B.weight is trainable
+model.layers.18.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.18.mlp.down_proj.lora_A.weight is trainable
+model.layers.18.mlp.down_proj.lora_B.weight is trainable
+model.layers.19.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.19.self_attn.q_proj.lora_A.weight is trainable
+model.layers.19.self_attn.q_proj.lora_B.weight is trainable
+model.layers.19.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.19.self_attn.k_proj.lora_A.weight is trainable
+model.layers.19.self_attn.k_proj.lora_B.weight is trainable
+model.layers.19.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.19.self_attn.v_proj.lora_A.weight is trainable
+model.layers.19.self_attn.v_proj.lora_B.weight is trainable
+model.layers.19.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.19.mlp.up_proj.lora_A.weight is trainable
+model.layers.19.mlp.up_proj.lora_B.weight is trainable
+model.layers.19.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.19.mlp.down_proj.lora_A.weight is trainable
+model.layers.19.mlp.down_proj.lora_B.weight is trainable
+model.layers.20.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.20.self_attn.q_proj.lora_A.weight is trainable
+model.layers.20.self_attn.q_proj.lora_B.weight is trainable
+model.layers.20.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.20.self_attn.k_proj.lora_A.weight is trainable
+model.layers.20.self_attn.k_proj.lora_B.weight is trainable
+model.layers.20.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.20.self_attn.v_proj.lora_A.weight is trainable
+model.layers.20.self_attn.v_proj.lora_B.weight is trainable
+model.layers.20.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.20.mlp.up_proj.lora_A.weight is trainable
+model.layers.20.mlp.up_proj.lora_B.weight is trainable
+model.layers.20.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.20.mlp.down_proj.lora_A.weight is trainable
+model.layers.20.mlp.down_proj.lora_B.weight is trainable
+model.layers.21.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.21.self_attn.q_proj.lora_A.weight is trainable
+model.layers.21.self_attn.q_proj.lora_B.weight is trainable
+model.layers.21.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.21.self_attn.k_proj.lora_A.weight is trainable
+model.layers.21.self_attn.k_proj.lora_B.weight is trainable
+model.layers.21.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.21.self_attn.v_proj.lora_A.weight is trainable
+model.layers.21.self_attn.v_proj.lora_B.weight is trainable
+model.layers.21.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.21.mlp.up_proj.lora_A.weight is trainable
+model.layers.21.mlp.up_proj.lora_B.weight is trainable
+model.layers.21.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.21.mlp.down_proj.lora_A.weight is trainable
+model.layers.21.mlp.down_proj.lora_B.weight is trainable
+model.layers.22.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.22.self_attn.q_proj.lora_A.weight is trainable
+model.layers.22.self_attn.q_proj.lora_B.weight is trainable
+model.layers.22.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.22.self_attn.k_proj.lora_A.weight is trainable
+model.layers.22.self_attn.k_proj.lora_B.weight is trainable
+model.layers.22.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.22.self_attn.v_proj.lora_A.weight is trainable
+model.layers.22.self_attn.v_proj.lora_B.weight is trainable
+model.layers.22.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.22.mlp.up_proj.lora_A.weight is trainable
+model.layers.22.mlp.up_proj.lora_B.weight is trainable
+model.layers.22.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.22.mlp.down_proj.lora_A.weight is trainable
+model.layers.22.mlp.down_proj.lora_B.weight is trainable
+model.layers.23.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.23.self_attn.q_proj.lora_A.weight is trainable
+model.layers.23.self_attn.q_proj.lora_B.weight is trainable
+model.layers.23.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.23.self_attn.k_proj.lora_A.weight is trainable
+model.layers.23.self_attn.k_proj.lora_B.weight is trainable
+model.layers.23.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.23.self_attn.v_proj.lora_A.weight is trainable
+model.layers.23.self_attn.v_proj.lora_B.weight is trainable
+model.layers.23.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.23.mlp.up_proj.lora_A.weight is trainable
+model.layers.23.mlp.up_proj.lora_B.weight is trainable
+model.layers.23.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.23.mlp.down_proj.lora_A.weight is trainable
+model.layers.23.mlp.down_proj.lora_B.weight is trainable
+model.layers.24.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.24.self_attn.q_proj.lora_A.weight is trainable
+model.layers.24.self_attn.q_proj.lora_B.weight is trainable
+model.layers.24.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.24.self_attn.k_proj.lora_A.weight is trainable
+model.layers.24.self_attn.k_proj.lora_B.weight is trainable
+model.layers.24.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.24.self_attn.v_proj.lora_A.weight is trainable
+model.layers.24.self_attn.v_proj.lora_B.weight is trainable
+model.layers.24.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.24.mlp.up_proj.lora_A.weight is trainable
+model.layers.24.mlp.up_proj.lora_B.weight is trainable
+model.layers.24.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.24.mlp.down_proj.lora_A.weight is trainable
+model.layers.24.mlp.down_proj.lora_B.weight is trainable
+model.layers.25.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.25.self_attn.q_proj.lora_A.weight is trainable
+model.layers.25.self_attn.q_proj.lora_B.weight is trainable
+model.layers.25.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.25.self_attn.k_proj.lora_A.weight is trainable
+model.layers.25.self_attn.k_proj.lora_B.weight is trainable
+model.layers.25.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.25.self_attn.v_proj.lora_A.weight is trainable
+model.layers.25.self_attn.v_proj.lora_B.weight is trainable
+model.layers.25.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.25.mlp.up_proj.lora_A.weight is trainable
+model.layers.25.mlp.up_proj.lora_B.weight is trainable
+model.layers.25.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.25.mlp.down_proj.lora_A.weight is trainable
+model.layers.25.mlp.down_proj.lora_B.weight is trainable
+model.layers.26.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.26.self_attn.q_proj.lora_A.weight is trainable
+model.layers.26.self_attn.q_proj.lora_B.weight is trainable
+model.layers.26.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.26.self_attn.k_proj.lora_A.weight is trainable
+model.layers.26.self_attn.k_proj.lora_B.weight is trainable
+model.layers.26.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.26.self_attn.v_proj.lora_A.weight is trainable
+model.layers.26.self_attn.v_proj.lora_B.weight is trainable
+model.layers.26.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.26.mlp.up_proj.lora_A.weight is trainable
+model.layers.26.mlp.up_proj.lora_B.weight is trainable
+model.layers.26.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.26.mlp.down_proj.lora_A.weight is trainable
+model.layers.26.mlp.down_proj.lora_B.weight is trainable
+model.layers.27.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.27.self_attn.q_proj.lora_A.weight is trainable
+model.layers.27.self_attn.q_proj.lora_B.weight is trainable
+model.layers.27.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.27.self_attn.k_proj.lora_A.weight is trainable
+model.layers.27.self_attn.k_proj.lora_B.weight is trainable
+model.layers.27.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.27.self_attn.v_proj.lora_A.weight is trainable
+model.layers.27.self_attn.v_proj.lora_B.weight is trainable
+model.layers.27.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.27.mlp.up_proj.lora_A.weight is trainable
+model.layers.27.mlp.up_proj.lora_B.weight is trainable
+model.layers.27.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.27.mlp.down_proj.lora_A.weight is trainable
+model.layers.27.mlp.down_proj.lora_B.weight is trainable
+model.layers.28.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.28.self_attn.q_proj.lora_A.weight is trainable
+model.layers.28.self_attn.q_proj.lora_B.weight is trainable
+model.layers.28.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.28.self_attn.k_proj.lora_A.weight is trainable
+model.layers.28.self_attn.k_proj.lora_B.weight is trainable
+model.layers.28.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.28.self_attn.v_proj.lora_A.weight is trainable
+model.layers.28.self_attn.v_proj.lora_B.weight is trainable
+model.layers.28.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.28.mlp.up_proj.lora_A.weight is trainable
+model.layers.28.mlp.up_proj.lora_B.weight is trainable
+model.layers.28.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.28.mlp.down_proj.lora_A.weight is trainable
+model.layers.28.mlp.down_proj.lora_B.weight is trainable
+model.layers.29.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.29.self_attn.q_proj.lora_A.weight is trainable
+model.layers.29.self_attn.q_proj.lora_B.weight is trainable
+model.layers.29.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.29.self_attn.k_proj.lora_A.weight is trainable
+model.layers.29.self_attn.k_proj.lora_B.weight is trainable
+model.layers.29.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.29.self_attn.v_proj.lora_A.weight is trainable
+model.layers.29.self_attn.v_proj.lora_B.weight is trainable
+model.layers.29.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.29.mlp.up_proj.lora_A.weight is trainable
+model.layers.29.mlp.up_proj.lora_B.weight is trainable
+model.layers.29.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.29.mlp.down_proj.lora_A.weight is trainable
+model.layers.29.mlp.down_proj.lora_B.weight is trainable
+model.layers.30.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.30.self_attn.q_proj.lora_A.weight is trainable
+model.layers.30.self_attn.q_proj.lora_B.weight is trainable
+model.layers.30.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.30.self_attn.k_proj.lora_A.weight is trainable
+model.layers.30.self_attn.k_proj.lora_B.weight is trainable
+model.layers.30.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.30.self_attn.v_proj.lora_A.weight is trainable
+model.layers.30.self_attn.v_proj.lora_B.weight is trainable
+model.layers.30.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.30.mlp.up_proj.lora_A.weight is trainable
+model.layers.30.mlp.up_proj.lora_B.weight is trainable
+model.layers.30.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.30.mlp.down_proj.lora_A.weight is trainable
+model.layers.30.mlp.down_proj.lora_B.weight is trainable
+model.layers.31.self_attn.q_proj.weight_m_wdecomp.weight is trainable
+model.layers.31.self_attn.q_proj.lora_A.weight is trainable
+model.layers.31.self_attn.q_proj.lora_B.weight is trainable
+model.layers.31.self_attn.k_proj.weight_m_wdecomp.weight is trainable
+model.layers.31.self_attn.k_proj.lora_A.weight is trainable
+model.layers.31.self_attn.k_proj.lora_B.weight is trainable
+model.layers.31.self_attn.v_proj.weight_m_wdecomp.weight is trainable
+model.layers.31.self_attn.v_proj.lora_A.weight is trainable
+model.layers.31.self_attn.v_proj.lora_B.weight is trainable
+model.layers.31.mlp.up_proj.weight_m_wdecomp.weight is trainable
+model.layers.31.mlp.up_proj.lora_A.weight is trainable
+model.layers.31.mlp.up_proj.lora_B.weight is trainable
+model.layers.31.mlp.down_proj.weight_m_wdecomp.weight is trainable
+model.layers.31.mlp.down_proj.lora_A.weight is trainable
+model.layers.31.mlp.down_proj.lora_B.weight is trainable
+Merge LoRA/DoRA weights into the original weights
+found model.layers.0.self_attn.q_proj
+found model.layers.0.self_attn.k_proj
+found model.layers.0.self_attn.v_proj
+found model.layers.0.mlp.up_proj
+found model.layers.0.mlp.down_proj
+found model.layers.1.self_attn.q_proj
+found model.layers.1.self_attn.k_proj
+found model.layers.1.self_attn.v_proj
+found model.layers.1.mlp.up_proj
+found model.layers.1.mlp.down_proj
+found model.layers.2.self_attn.q_proj
+found model.layers.2.self_attn.k_proj
+found model.layers.2.self_attn.v_proj
+found model.layers.2.mlp.up_proj
+found model.layers.2.mlp.down_proj
+found model.layers.3.self_attn.q_proj
+found model.layers.3.self_attn.k_proj
+found model.layers.3.self_attn.v_proj
+found model.layers.3.mlp.up_proj
+found model.layers.3.mlp.down_proj
+found model.layers.4.self_attn.q_proj
+found model.layers.4.self_attn.k_proj
+found model.layers.4.self_attn.v_proj
+found model.layers.4.mlp.up_proj
+found model.layers.4.mlp.down_proj
+found model.layers.5.self_attn.q_proj
+found model.layers.5.self_attn.k_proj
+found model.layers.5.self_attn.v_proj
+found model.layers.5.mlp.up_proj
+found model.layers.5.mlp.down_proj
+found model.layers.6.self_attn.q_proj
+found model.layers.6.self_attn.k_proj
+found model.layers.6.self_attn.v_proj
+found model.layers.6.mlp.up_proj
+found model.layers.6.mlp.down_proj
+found model.layers.7.self_attn.q_proj
+found model.layers.7.self_attn.k_proj
+found model.layers.7.self_attn.v_proj
+found model.layers.7.mlp.up_proj
+found model.layers.7.mlp.down_proj
+found model.layers.8.self_attn.q_proj
+found model.layers.8.self_attn.k_proj
+found model.layers.8.self_attn.v_proj
+found model.layers.8.mlp.up_proj
+found model.layers.8.mlp.down_proj
+found model.layers.9.self_attn.q_proj
+found model.layers.9.self_attn.k_proj
+found model.layers.9.self_attn.v_proj
+found model.layers.9.mlp.up_proj
+found model.layers.9.mlp.down_proj
+found model.layers.10.self_attn.q_proj
+found model.layers.10.self_attn.k_proj
+found model.layers.10.self_attn.v_proj
+found model.layers.10.mlp.up_proj
+found model.layers.10.mlp.down_proj
+found model.layers.11.self_attn.q_proj
+found model.layers.11.self_attn.k_proj
+found model.layers.11.self_attn.v_proj
+found model.layers.11.mlp.up_proj
+found model.layers.11.mlp.down_proj
+found model.layers.12.self_attn.q_proj
+found model.layers.12.self_attn.k_proj
+found model.layers.12.self_attn.v_proj
+found model.layers.12.mlp.up_proj
+found model.layers.12.mlp.down_proj
+found model.layers.13.self_attn.q_proj
+found model.layers.13.self_attn.k_proj
+found model.layers.13.self_attn.v_proj
+found model.layers.13.mlp.up_proj
+found model.layers.13.mlp.down_proj
+found model.layers.14.self_attn.q_proj
+found model.layers.14.self_attn.k_proj
+found model.layers.14.self_attn.v_proj
+found model.layers.14.mlp.up_proj
+found model.layers.14.mlp.down_proj
+found model.layers.15.self_attn.q_proj
+found model.layers.15.self_attn.k_proj
+found model.layers.15.self_attn.v_proj
+found model.layers.15.mlp.up_proj
+found model.layers.15.mlp.down_proj
+found model.layers.16.self_attn.q_proj
+found model.layers.16.self_attn.k_proj
+found model.layers.16.self_attn.v_proj
+found model.layers.16.mlp.up_proj
+found model.layers.16.mlp.down_proj
+found model.layers.17.self_attn.q_proj
+found model.layers.17.self_attn.k_proj
+found model.layers.17.self_attn.v_proj
+found model.layers.17.mlp.up_proj
+found model.layers.17.mlp.down_proj
+found model.layers.18.self_attn.q_proj
+found model.layers.18.self_attn.k_proj
+found model.layers.18.self_attn.v_proj
+found model.layers.18.mlp.up_proj
+found model.layers.18.mlp.down_proj
+found model.layers.19.self_attn.q_proj
+found model.layers.19.self_attn.k_proj
+found model.layers.19.self_attn.v_proj
+found model.layers.19.mlp.up_proj
+found model.layers.19.mlp.down_proj
+found model.layers.20.self_attn.q_proj
+found model.layers.20.self_attn.k_proj
+found model.layers.20.self_attn.v_proj
+found model.layers.20.mlp.up_proj
+found model.layers.20.mlp.down_proj
+found model.layers.21.self_attn.q_proj
+found model.layers.21.self_attn.k_proj
+found model.layers.21.self_attn.v_proj
+found model.layers.21.mlp.up_proj
+found model.layers.21.mlp.down_proj
+found model.layers.22.self_attn.q_proj
+found model.layers.22.self_attn.k_proj
+found model.layers.22.self_attn.v_proj
+found model.layers.22.mlp.up_proj
+found model.layers.22.mlp.down_proj
+found model.layers.23.self_attn.q_proj
+found model.layers.23.self_attn.k_proj
+found model.layers.23.self_attn.v_proj
+found model.layers.23.mlp.up_proj
+found model.layers.23.mlp.down_proj
+found model.layers.24.self_attn.q_proj
+found model.layers.24.self_attn.k_proj
+found model.layers.24.self_attn.v_proj
+found model.layers.24.mlp.up_proj
+found model.layers.24.mlp.down_proj
+found model.layers.25.self_attn.q_proj
+found model.layers.25.self_attn.k_proj
+found model.layers.25.self_attn.v_proj
+found model.layers.25.mlp.up_proj
+found model.layers.25.mlp.down_proj
+found model.layers.26.self_attn.q_proj
+found model.layers.26.self_attn.k_proj
+found model.layers.26.self_attn.v_proj
+found model.layers.26.mlp.up_proj
+found model.layers.26.mlp.down_proj
+found model.layers.27.self_attn.q_proj
+found model.layers.27.self_attn.k_proj
+found model.layers.27.self_attn.v_proj
+found model.layers.27.mlp.up_proj
+found model.layers.27.mlp.down_proj
+found model.layers.28.self_attn.q_proj
+found model.layers.28.self_attn.k_proj
+found model.layers.28.self_attn.v_proj
+found model.layers.28.mlp.up_proj
+found model.layers.28.mlp.down_proj
+found model.layers.29.self_attn.q_proj
+found model.layers.29.self_attn.k_proj
+found model.layers.29.self_attn.v_proj
+found model.layers.29.mlp.up_proj
+found model.layers.29.mlp.down_proj
+found model.layers.30.self_attn.q_proj
+found model.layers.30.self_attn.k_proj
+found model.layers.30.self_attn.v_proj
+found model.layers.30.mlp.up_proj
+found model.layers.30.mlp.down_proj
+found model.layers.31.self_attn.q_proj
+found model.layers.31.self_attn.k_proj
+found model.layers.31.self_attn.v_proj
+found model.layers.31.mlp.up_proj
+found model.layers.31.mlp.down_proj
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does ethanol take more energy make that produces?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does ethanol take more energy make that produces?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:1/3270 | accuracy 0  0.0
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is house tax and property tax are same?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is house tax and property tax are same?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:2/3270 | accuracy 0  0.0
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is pain experienced in a missing body part or paralyzed area?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is pain experienced in a missing body part or paralyzed area?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:3/3270 | accuracy 1  0.3333333333333333
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is harry potter and the escape from gringotts a roller coaster ride?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is harry potter and the escape from gringotts a roller coaster ride?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:4/3270 | accuracy 2  0.5
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a difference between hydroxyzine hcl and hydroxyzine pam?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a difference between hydroxyzine hcl and hydroxyzine pam?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:5/3270 | accuracy 3  0.6
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is barq's root beer a pepsi product?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true"]
+Please answer the following question with true or false, question: is barq's root beer a pepsi product?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:6/3270 | accuracy 3  0.5
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can an odd number be divided by an even number?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can an odd number be divided by an even number?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:7/3270 | accuracy 4  0.5714285714285714
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a word with q without u?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a word with q without u?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:8/3270 | accuracy 5  0.625
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can u drive in canada with us license?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can u drive in canada with us license?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:9/3270 | accuracy 6  0.6666666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a play off for third place in the world cup?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a play off for third place in the world cup?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:10/3270 | accuracy 7  0.7
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can minors drink with parents in new york?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can minors drink with parents in new york?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:11/3270 | accuracy 8  0.7272727272727273
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the show bloodline based on a true story?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is the show bloodline based on a true story?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:12/3270 | accuracy 9  0.75
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is it bad to wash your hair with shower gel?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is it bad to wash your hair with shower gel?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:13/3270 | accuracy 9  0.6923076923076923
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the liver part of the excretory system?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is the liver part of the excretory system?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:14/3270 | accuracy 10  0.7142857142857143
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is fantastic beasts and where to find them a prequel?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is fantastic beasts and where to find them a prequel?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:15/3270 | accuracy 11  0.7333333333333333
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: will there be a season 8 of vampire diaries?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: will there be a season 8 of vampire diaries?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:16/3270 | accuracy 12  0.75
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: was the movie strangers based on a true story?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: was the movie strangers based on a true story?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:17/3270 | accuracy 12  0.7058823529411765
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is durham university part of the russell group?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is durham university part of the russell group?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:18/3270 | accuracy 13  0.7222222222222222
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the tv show the resident over for the season?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is the tv show the resident over for the season?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:19/3270 | accuracy 13  0.6842105263157895
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does magnesium citrate have citric acid in it?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: does magnesium citrate have citric acid in it?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:20/3270 | accuracy 13  0.65
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does p o box come before street address?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: does p o box come before street address?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:21/3270 | accuracy 14  0.6666666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does a spark plug keep an engine running?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does a spark plug keep an engine running?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:22/3270 | accuracy 15  0.6818181818181818
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is a cape and a cloak the same?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is a cape and a cloak the same?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:23/3270 | accuracy 15  0.6521739130434783
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does it cost money to renounce us citizenship?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: does it cost money to renounce us citizenship?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:24/3270 | accuracy 15  0.625
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is a fire 7 the same as a kindle?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is a fire 7 the same as a kindle?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:25/3270 | accuracy 16  0.64
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can you drink alcohol with your parents in wisconsin?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can you drink alcohol with your parents in wisconsin?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:26/3270 | accuracy 17  0.6538461538461539
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do penguins have feathers arising from the epidermis?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do penguins have feathers arising from the epidermis?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:27/3270 | accuracy 18  0.6666666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do you need to break in a car?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: do you need to break in a car?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:28/3270 | accuracy 19  0.6785714285714286
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the enchanted forest in oregon still open?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is the enchanted forest in oregon still open?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:29/3270 | accuracy 20  0.6896551724137931
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a golf course at the indy 500?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a golf course at the indy 500?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:30/3270 | accuracy 21  0.7
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does deadpool have a kid in the comics?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does deadpool have a kid in the comics?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:31/3270 | accuracy 22  0.7096774193548387
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do they still make benson & hedges cigarettes?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: do they still make benson & hedges cigarettes?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:32/3270 | accuracy 22  0.6875
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is federal income tax the same as social security?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is federal income tax the same as social security?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:33/3270 | accuracy 23  0.696969696969697
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is an engine speed sensor the same as a crankshaft sensor?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is an engine speed sensor the same as a crankshaft sensor?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:34/3270 | accuracy 23  0.6764705882352942
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is indiana jones temple of doom a prequel?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is indiana jones temple of doom a prequel?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:35/3270 | accuracy 23  0.6571428571428571
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there any next part of avengers infinity war?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there any next part of avengers infinity war?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:36/3270 | accuracy 24  0.6666666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the toyota highlander on a truck frame?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is the toyota highlander on a truck frame?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:37/3270 | accuracy 25  0.6756756756756757
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is it legal to do a cover of a song?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is it legal to do a cover of a song?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:38/3270 | accuracy 26  0.6842105263157895
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can carbon form polar covalent bonds with hydrogen?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can carbon form polar covalent bonds with hydrogen?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:39/3270 | accuracy 26  0.6666666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a sequel to the movie the golden compass?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is there a sequel to the movie the golden compass?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:40/3270 | accuracy 27  0.675
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is columbus day a national holiday in the united states?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is columbus day a national holiday in the united states?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:41/3270 | accuracy 28  0.6829268292682927
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: are new balance and nike the same company?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: are new balance and nike the same company?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:42/3270 | accuracy 29  0.6904761904761905
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there an interstate that goes coast to coast?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there an interstate that goes coast to coast?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:43/3270 | accuracy 30  0.6976744186046512
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is pureed tomatoes the same as tomato sauce?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is pureed tomatoes the same as tomato sauce?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:44/3270 | accuracy 31  0.7045454545454546
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can there be a word without a vowel?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can there be a word without a vowel?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:45/3270 | accuracy 32  0.7111111111111111
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does only the winner get money on tipping point?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: does only the winner get money on tipping point?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:46/3270 | accuracy 32  0.6956521739130435
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there such a thing as a turkey vulture?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there such a thing as a turkey vulture?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:47/3270 | accuracy 33  0.7021276595744681
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: has anyone hit a hole in one on a par 5?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: has anyone hit a hole in one on a par 5?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:48/3270 | accuracy 34  0.7083333333333334
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do the jets and giants share a stadium?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do the jets and giants share a stadium?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:49/3270 | accuracy 35  0.7142857142857143
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the us womens soccer team in the world cup?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is the us womens soccer team in the world cup?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:50/3270 | accuracy 36  0.72
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can an african team win the world cup?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can an african team win the world cup?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:51/3270 | accuracy 37  0.7254901960784313
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can a hammer be used as a weapon?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can a hammer be used as a weapon?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:52/3270 | accuracy 38  0.7307692307692307
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do they still have fox hunts in england?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: do they still have fox hunts in england?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:53/3270 | accuracy 39  0.7358490566037735
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can you wear short sleeve shirt with asu jacket?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can you wear short sleeve shirt with asu jacket?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:54/3270 | accuracy 40  0.7407407407407407
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: has wisconsin ever been in the little league world series?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: has wisconsin ever been in the little league world series?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:55/3270 | accuracy 40  0.7272727272727273
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does damon and elena get together in season 3?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does damon and elena get together in season 3?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:56/3270 | accuracy 40  0.7142857142857143
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a player in the nfl missing a hand?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a player in the nfl missing a hand?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:57/3270 | accuracy 41  0.7192982456140351
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the other boleyn girl part of a series?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is the other boleyn girl part of a series?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:58/3270 | accuracy 41  0.7068965517241379
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a group called the five heartbeats?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is there a group called the five heartbeats?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:59/3270 | accuracy 42  0.711864406779661
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is mount everest a part of the himalayas?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is mount everest a part of the himalayas?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:60/3270 | accuracy 43  0.7166666666666667
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can an emt-basic start an iv?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can an emt-basic start an iv?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:61/3270 | accuracy 43  0.7049180327868853
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: has no 1 court at wimbledon got a roof?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: has no 1 court at wimbledon got a roof?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:62/3270 | accuracy 44  0.7096774193548387
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: has anyone come back from 3-0 in the nba finals?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: has anyone come back from 3-0 in the nba finals?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:63/3270 | accuracy 44  0.6984126984126984
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do radio waves travel at the speed of light?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do radio waves travel at the speed of light?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:64/3270 | accuracy 45  0.703125
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: did anyone from the 1980 us hockey team play in the nhl?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: did anyone from the 1980 us hockey team play in the nhl?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:65/3270 | accuracy 46  0.7076923076923077
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do all triangles have at least two acute angles?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do all triangles have at least two acute angles?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:66/3270 | accuracy 47  0.7121212121212122
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is baylor and mary hardin baylor the same school?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is baylor and mary hardin baylor the same school?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:67/3270 | accuracy 48  0.7164179104477612
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can you get the death penalty as a minor?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: can you get the death penalty as a minor?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:68/3270 | accuracy 49  0.7205882352941176
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: did indian football team qualified for fifa 2018?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: did indian football team qualified for fifa 2018?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:69/3270 | accuracy 50  0.7246376811594203
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: are t rex and tyrannosaurus rex the same?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: are t rex and tyrannosaurus rex the same?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:70/3270 | accuracy 51  0.7285714285714285
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the old panama canal still in use?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is the old panama canal still in use?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:71/3270 | accuracy 52  0.7323943661971831
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do you need a pal to possess ammunition?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: do you need a pal to possess ammunition?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:72/3270 | accuracy 52  0.7222222222222222
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do blue and pink cotton candy taste the same?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: do blue and pink cotton candy taste the same?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:73/3270 | accuracy 53  0.726027397260274
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: did to kill a mockingbird win an academy award?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: did to kill a mockingbird win an academy award?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:74/3270 | accuracy 54  0.7297297297297297
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there such a thing as a floating island?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there such a thing as a floating island?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:75/3270 | accuracy 55  0.7333333333333333
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do female ferrets die if they don't mate?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true"]
+Please answer the following question with true or false, question: do female ferrets die if they don't mate?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:76/3270 | accuracy 56  0.7368421052631579
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: will all xbox 360 games work on xbox one?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: will all xbox 360 games work on xbox one?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:77/3270 | accuracy 57  0.7402597402597403
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a right and left brachiocephalic artery?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a right and left brachiocephalic artery?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:78/3270 | accuracy 57  0.7307692307692307
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do the runners up on survivor win money?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do the runners up on survivor win money?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:79/3270 | accuracy 58  0.7341772151898734
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a sequel to love finds a home?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a sequel to love finds a home?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:80/3270 | accuracy 58  0.725
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: will there be a second season of 11.22.63?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: will there be a second season of 11.22.63?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:81/3270 | accuracy 59  0.7283950617283951
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: are there nuclear power plants in the us?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: are there nuclear power plants in the us?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:82/3270 | accuracy 60  0.7317073170731707
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a tiebreaker in final set at wimbledon?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a tiebreaker in final set at wimbledon?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:83/3270 | accuracy 60  0.7228915662650602
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: were the twin towers the world trade center?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: were the twin towers the world trade center?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:84/3270 | accuracy 61  0.7261904761904762
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: did deion sanders ever win a world series?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: did deion sanders ever win a world series?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:85/3270 | accuracy 61  0.7176470588235294
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is a german shepard the same as an alsatian?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is a german shepard the same as an alsatian?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:86/3270 | accuracy 62  0.7209302325581395
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does a frog jump out of boiling water?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: does a frog jump out of boiling water?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:87/3270 | accuracy 62  0.7126436781609196
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is it possible to create mass from energy?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is it possible to create mass from energy?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:88/3270 | accuracy 63  0.7159090909090909
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is there a movie with 0 on rotten tomatoes?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is there a movie with 0 on rotten tomatoes?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:89/3270 | accuracy 64  0.7191011235955056
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is the jaguar s type rear wheel drive?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is the jaguar s type rear wheel drive?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:90/3270 | accuracy 65  0.7222222222222222
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is a tablespoon bigger than a dessert spoon?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is a tablespoon bigger than a dessert spoon?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:91/3270 | accuracy 66  0.7252747252747253
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is this the last season of bunk'd?\n\nAnswer format: true/false\n\n                ### Response:\n                \n                the correct answer is false"]
+Please answer the following question with true or false, question: is this the last season of bunk'd?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: true
+---------------
+test:92/3270 | accuracy 66  0.717391304347826
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does the president live in the white house?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does the president live in the white house?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:93/3270 | accuracy 67  0.7204301075268817
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: does the dorsal root ganglion carry sensory input?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: does the dorsal root ganglion carry sensory input?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:94/3270 | accuracy 68  0.723404255319149
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is anne with an e filmed on pei?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is anne with an e filmed on pei?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:95/3270 | accuracy 69  0.7263157894736842
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is angular frequency and angular velocity the same?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: is angular frequency and angular velocity the same?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:96/3270 | accuracy 70  0.7291666666666666
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can someone die from a bullet shot in the air?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can someone die from a bullet shot in the air?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:97/3270 | accuracy 71  0.7319587628865979
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is salt lake city the biggest city in utah?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is salt lake city the biggest city in utah?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:98/3270 | accuracy 72  0.7346938775510204
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: was chasing cars written for grey's anatomy?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false"]
+Please answer the following question with true or false, question: was chasing cars written for grey's anatomy?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:99/3270 | accuracy 73  0.7373737373737373
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: did the girl in the lost world die?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: did the girl in the lost world die?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:100/3270 | accuracy 73  0.73
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can you have too much oxygen in your body?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can you have too much oxygen in your body?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:101/3270 | accuracy 74  0.7326732673267327
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: is northern ireland part of the great britain?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: is northern ireland part of the great britain?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:102/3270 | accuracy 74  0.7254901960784313
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: has tampa ever been hit by a hurricane?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: has tampa ever been hit by a hurricane?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:103/3270 | accuracy 75  0.7281553398058253
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can anyone give last rites in an emergency?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can anyone give last rites in an emergency?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:104/3270 | accuracy 75  0.7211538461538461
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: was there a draft in the revolutionary war?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: was there a draft in the revolutionary war?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:105/3270 | accuracy 76  0.7238095238095238
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: can you wear your letterman after high school?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: can you wear your letterman after high school?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: true
+---------------
+test:106/3270 | accuracy 77  0.7264150943396226
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: do you pay tax on gambling winnings in australia?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is true']
+Please answer the following question with true or false, question: do you pay tax on gambling winnings in australia?
+
+Answer format: true/false
+the correct answer is true
+prediction: true
+label: false
+---------------
+test:107/3270 | accuracy 77  0.719626168224299
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please answer the following question with true or false, question: will there be a new spartacus season 5?\n\nAnswer format: true/false\n\n                ### Response:\n                    the correct answer is false']
+Please answer the following question with true or false, question: will there be a new spartacus season 5?
+
+Answer format: true/false
+the correct answer is false
+prediction: false
+label: false
+---------------
+test:108/3270 | accuracy 78  0.7222222222222222
+---------------

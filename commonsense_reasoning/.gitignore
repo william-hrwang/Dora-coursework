@@ -1,3 +1,7 @@
 __pycache__
 .idea/*
 /peft/src/peft/__pycache__
+finetuned_result/**/adapter_model.bin
+commonsense_170k.json
+
+**/adapter_model.bin

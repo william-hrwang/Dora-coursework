@@ -1,0 +1,24 @@
+{
+  "Wdecompose_target_modules": null,
+  "base_model_name_or_path": "meta-llama/Meta-Llama-3-8B",
+  "bias": "none",
+  "dora_simple": true,
+  "enable_lora": null,
+  "fan_in_fan_out": false,
+  "inference_mode": true,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "merge_weights": false,
+  "modules_to_save": null,
+  "only_tune_direction": false,
+  "peft_type": "DORA",
+  "r": 16,
+  "target_modules": [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "up_proj",
+    "down_proj"
+  ],
+  "task_type": "CAUSAL_LM"
+}
