@@ -1,9 +1,9 @@
 #!/bin/bash
-#SBATCH --job-name=eval_llama3_8B_dora_r32                     # task name
-#SBATCH --time=3:00:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
+#SBATCH --job-name=llama3_8B_r32                     # task name
+#SBATCH --time=8:00:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
 #SBATCH --mem=50G                                                       # memory requirement
-#SBATCH --cpus-per-task=5                                              # number of CPU cores
-#SBATCH --gpus=nvidia_h100_80gb_hbm3_2g.20gb:1                                          # GPU requirement
+#SBATCH --cpus-per-task=20
+#SBATCH --gpus=h100:1                                          # GPU requirement
 #SBATCH --output=slurm_logs/%x/%A.out           # standard output file (%A=jobID, %a=arrayID)
 #SBATCH --error=slurm_logs/%x/%A.err            # error output file
 #SBATCH --mail-type=ALL                                                 # send email at begin and end of job

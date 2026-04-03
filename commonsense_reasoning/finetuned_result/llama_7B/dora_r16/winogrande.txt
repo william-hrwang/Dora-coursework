@@ -12557,3 +12557,758 @@ the correct answer is option1
 prediction: option1
 label: option2
 ---------------
+test:1192/1267 | accuracy 962  0.8070469798657718
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Mary used the lotion instead of the cream because her skin was glowing when she used the _ .\n\nOption1: cream Option2: lotion Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Mary used the lotion instead of the cream because her skin was glowing when she used the _ .
+
+Option1: cream Option2: lotion Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1193/1267 | accuracy 963  0.80720871751886
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: I wore the pants and the shirt together, but got more compliments on the _ because the shirt was uglier.\n\nOption1: shirt Option2: pants Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: I wore the pants and the shirt together, but got more compliments on the _ because the shirt was uglier.
+
+Option1: shirt Option2: pants Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1194/1267 | accuracy 964  0.8073701842546064
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: John cannot listen to his music with the volume of the television his cousin is watching. The _ is quiet.\n\nOption1: television Option2: music Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: John cannot listen to his music with the volume of the television his cousin is watching. The _ is quiet.
+
+Option1: television Option2: music Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1195/1267 | accuracy 965  0.8075313807531381
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The honey flows out slower from the bottle than the oil. The _ is viscous.\n\nOption1: honey Option2: oil Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The honey flows out slower from the bottle than the oil. The _ is viscous.
+
+Option1: honey Option2: oil Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1196/1267 | accuracy 965  0.8068561872909699
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Lawrence volunteered to donate blood to help others, but Steven was unable to, since _ was healthy.\n\nOption1: Lawrence Option2: Steven Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Lawrence volunteered to donate blood to help others, but Steven was unable to, since _ was healthy.
+
+Option1: Lawrence Option2: Steven Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1197/1267 | accuracy 966  0.8070175438596491
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Reading poetry and rhymes was very entertaining for Derrick but boring for Logan, since _ was a mathematician.\n\nOption1: Derrick Option2: Logan Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Reading poetry and rhymes was very entertaining for Derrick but boring for Logan, since _ was a mathematician.
+
+Option1: Derrick Option2: Logan Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1198/1267 | accuracy 967  0.8071786310517529
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Laura never feared anything like Erin because _ didn't have a very strong and very powerful mind.\n\nOption1: Laura Option2: Erin Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Laura never feared anything like Erin because _ didn't have a very strong and very powerful mind.
+
+Option1: Laura Option2: Erin Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option2
+---------------
+test:1199/1267 | accuracy 967  0.8065054211843202
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Laura never feared anything like Erin because _ had a very strong and very powerful mind.\n\nOption1: Laura Option2: Erin Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Laura never feared anything like Erin because _ had a very strong and very powerful mind.
+
+Option1: Laura Option2: Erin Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1200/1267 | accuracy 967  0.8058333333333333
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The farmer had more corn to harvest than yams because his cows liked eating the _ .\n\nOption1: yams Option2: corn Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The farmer had more corn to harvest than yams because his cows liked eating the _ .
+
+Option1: yams Option2: corn Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1201/1267 | accuracy 967  0.8051623646960866
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The farmer had more corn to harvest than yams because his cows hated eating the _ .\n\nOption1: yams Option2: corn Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: The farmer had more corn to harvest than yams because his cows hated eating the _ .
+
+Option1: yams Option2: corn Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option2
+---------------
+test:1202/1267 | accuracy 967  0.8044925124792013
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Adam asked Dennis to always remember to flush the toilet because _ doesn't flush it.\n\nOption1: Adam Option2: Dennis Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Adam asked Dennis to always remember to flush the toilet because _ doesn't flush it.
+
+Option1: Adam Option2: Dennis Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1203/1267 | accuracy 968  0.8046550290939318
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Christine knew how to make wings with better flavor than Maria, so _ waited for supper.\n\nOption1: Christine Option2: Maria Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Christine knew how to make wings with better flavor than Maria, so _ waited for supper.
+
+Option1: Christine Option2: Maria Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1204/1267 | accuracy 969  0.8048172757475083
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were cautious.\n\nOption1: passengers Option2: cars Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were cautious.
+
+Option1: passengers Option2: cars Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1205/1267 | accuracy 969  0.804149377593361
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were racing.\n\nOption1: passengers Option2: cars Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The shoddy bridge held secure for when the cars were getting passengers across the town to their destinations on time. However the _ were racing.
+
+Option1: passengers Option2: cars Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1206/1267 | accuracy 970  0.8043117744610282
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.\n\nOption1: Adam Option2: Christopher Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Buying a swimming pool was great for Adam but not for Christopher because _ had a large back yard.
+
+Option1: Adam Option2: Christopher Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1207/1267 | accuracy 971  0.8044739022369511
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Ann liked using oil paint rather than acrylic on canvas because _ had a shortened working time.\n\nOption1: acrylic Option2: oil Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Ann liked using oil paint rather than acrylic on canvas because _ had a shortened working time.
+
+Option1: acrylic Option2: oil Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1208/1267 | accuracy 972  0.804635761589404
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Cynthia was happy to give Patricia the politics section of the newspaper, because _ had little interest in the election results.\n\nOption1: Cynthia Option2: Patricia Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Cynthia was happy to give Patricia the politics section of the newspaper, because _ had little interest in the election results.
+
+Option1: Cynthia Option2: Patricia Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1209/1267 | accuracy 973  0.80479735318445
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Only the bag got melted and not the wood when they were inside the flame. The _ is soft.\n\nOption1: wood Option2: bag Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Only the bag got melted and not the wood when they were inside the flame. The _ is soft.
+
+Option1: wood Option2: bag Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1210/1267 | accuracy 974  0.8049586776859504
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Only the bag got melted and not the wood when they were inside the flame. The _ is hard.\n\nOption1: wood Option2: bag Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Only the bag got melted and not the wood when they were inside the flame. The _ is hard.
+
+Option1: wood Option2: bag Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1211/1267 | accuracy 975  0.8051197357555739
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Carrie always arrived to work after Cynthia, as _ had a shorter driving commute in the mornings.\n\nOption1: Carrie Option2: Cynthia Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Carrie always arrived to work after Cynthia, as _ had a shorter driving commute in the mornings.
+
+Option1: Carrie Option2: Cynthia Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1212/1267 | accuracy 976  0.8052805280528053
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Amy left smears all over the surface after cleaning Kayla's sink, because _ didn't supervise very much.\n\nOption1: Amy Option2: Kayla Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Amy left smears all over the surface after cleaning Kayla's sink, because _ didn't supervise very much.
+
+Option1: Amy Option2: Kayla Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1213/1267 | accuracy 977  0.8054410552349547
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Brian could learn to swim with the right instruction, but it was hard to tell whether lifeguard Matthew was qualified to provide it, since _ had never swum before.\n\nOption1: Brian Option2: Matthew Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Brian could learn to swim with the right instruction, but it was hard to tell whether lifeguard Matthew was qualified to provide it, since _ had never swum before.
+
+Option1: Brian Option2: Matthew Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1214/1267 | accuracy 977  0.8047775947281713
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: I slowly poured the milk over my bowl of cereal until the _ was gone.\n\nOption1: milk Option2: cereal Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: I slowly poured the milk over my bowl of cereal until the _ was gone.
+
+Option1: milk Option2: cereal Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1215/1267 | accuracy 978  0.8049382716049382
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: They disagreed over what dog to adopt as Mary wanted a yorkie while Maria wanted a labrador. _ loved small dogs.\n\nOption1: Mary Option2: Maria Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: They disagreed over what dog to adopt as Mary wanted a yorkie while Maria wanted a labrador. _ loved small dogs.
+
+Option1: Mary Option2: Maria Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1216/1267 | accuracy 979  0.8050986842105263
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Devin got sick after eating the sausage, so he laid on the couch and later moved to the bed because the _ was more comfortable.\n\nOption1: couch Option2: bed Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Devin got sick after eating the sausage, so he laid on the couch and later moved to the bed because the _ was more comfortable.
+
+Option1: couch Option2: bed Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1217/1267 | accuracy 980  0.8052588331963846
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Jennifer has more money than Amy, so _ became a homeowner at a young age.\n\nOption1: Jennifer Option2: Amy Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Jennifer has more money than Amy, so _ became a homeowner at a young age.
+
+Option1: Jennifer Option2: Amy Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1218/1267 | accuracy 981  0.8054187192118226
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Michael had a unhappy relationship and was jealous because Lawrence had a great one only to find out the reason was _ slacked in adhering to standard marriage advice.\n\nOption1: Michael Option2: Lawrence Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Michael had a unhappy relationship and was jealous because Lawrence had a great one only to find out the reason was _ slacked in adhering to standard marriage advice.
+
+Option1: Michael Option2: Lawrence Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1219/1267 | accuracy 981  0.8047579983593109
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The salesman would only feature nice things in the house like the pool but not the wiring because the _ was fine.\n\nOption1: pool Option2: wiring Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: The salesman would only feature nice things in the house like the pool but not the wiring because the _ was fine.
+
+Option1: pool Option2: wiring Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1220/1267 | accuracy 982  0.8049180327868852
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The boxes were too heavy for Benjamin to carry alone, so he asked Matthew for help. After he said yes, _ felt regret.\n\nOption1: Benjamin Option2: Matthew Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The boxes were too heavy for Benjamin to carry alone, so he asked Matthew for help. After he said yes, _ felt regret.
+
+Option1: Benjamin Option2: Matthew Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1221/1267 | accuracy 983  0.8050778050778051
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Jasmine wanted to put the emerald on the ring but it would not fit. The _ was minuscule.\n\nOption1: emerald Option2: ring Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Jasmine wanted to put the emerald on the ring but it would not fit. The _ was minuscule.
+
+Option1: emerald Option2: ring Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1222/1267 | accuracy 984  0.8052373158756138
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Jasmine wanted to put the emerald on the ring and it would not fit. The _ was colossal.\n\nOption1: emerald Option2: ring Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Jasmine wanted to put the emerald on the ring and it would not fit. The _ was colossal.
+
+Option1: emerald Option2: ring Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1223/1267 | accuracy 985  0.8053965658217498
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: John was glad the file was kept in the box before the fire outbreak started because the _ is inflammable.\n\nOption1: box Option2: file Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: John was glad the file was kept in the box before the fire outbreak started because the _ is inflammable.
+
+Option1: box Option2: file Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1224/1267 | accuracy 986  0.8055555555555556
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too straight.\n\nOption1: conditioner Option2: hair Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too straight.
+
+Option1: conditioner Option2: hair Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1225/1267 | accuracy 987  0.8057142857142857
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too mild.\n\nOption1: conditioner Option2: hair Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Sandra tried out a new conditioner for her hair that makes it curly, but was upset with the results because the _ was too mild.
+
+Option1: conditioner Option2: hair Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1226/1267 | accuracy 988  0.8058727569331158
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Patricia had to pay less tax than Cynthia because _ made more money in the year.\n\nOption1: Patricia Option2: Cynthia Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Patricia had to pay less tax than Cynthia because _ made more money in the year.
+
+Option1: Patricia Option2: Cynthia Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1227/1267 | accuracy 989  0.8060309698451508
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Patricia had to pay less tax than Cynthia because _ made less money in the year.\n\nOption1: Patricia Option2: Cynthia Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Patricia had to pay less tax than Cynthia because _ made less money in the year.
+
+Option1: Patricia Option2: Cynthia Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1228/1267 | accuracy 990  0.8061889250814332
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Brian's plants are showing a lot more growth than Logan's, because _ used better fertilizer.\n\nOption1: Brian Option2: Logan Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Brian's plants are showing a lot more growth than Logan's, because _ used better fertilizer.
+
+Option1: Brian Option2: Logan Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1229/1267 | accuracy 991  0.806346623270952
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is long.\n\nOption1: street Option2: lawn Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is long.
+
+Option1: street Option2: lawn Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1230/1267 | accuracy 992  0.8065040650406504
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is short.\n\nOption1: street Option2: lawn Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: James always feel weak whenever he walked the length of his street so he decided walking just the length of the lawn. The _ is short.
+
+Option1: street Option2: lawn Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1231/1267 | accuracy 993  0.8066612510154346
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The living room was cleaner than the kitchen, because we spend leess time in in the _ .\n\nOption1: living room Option2: kitchen Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The living room was cleaner than the kitchen, because we spend leess time in in the _ .
+
+Option1: living room Option2: kitchen Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1232/1267 | accuracy 993  0.8060064935064936
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The living room was cleaner than the kitchen, because we spend more time in the the _ .\n\nOption1: living room Option2: kitchen Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The living room was cleaner than the kitchen, because we spend more time in the the _ .
+
+Option1: living room Option2: kitchen Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1233/1267 | accuracy 994  0.8061638280616383
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The girl broke Leslie's heart but not Kenneth's because _ was never in love with her.\n\nOption1: Leslie Option2: Kenneth Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: The girl broke Leslie's heart but not Kenneth's because _ was never in love with her.
+
+Option1: Leslie Option2: Kenneth Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1234/1267 | accuracy 995  0.8063209076175041
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The girl broke Leslie's heart but not Kenneth's because _ used to be in love with her.\n\nOption1: Leslie Option2: Kenneth Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: The girl broke Leslie's heart but not Kenneth's because _ used to be in love with her.
+
+Option1: Leslie Option2: Kenneth Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1235/1267 | accuracy 996  0.8064777327935223
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Monica suspected that Rebecca had become an alcoholic, but _ predicted an intervention to address the problem.\n\nOption1: Monica Option2: Rebecca Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Monica suspected that Rebecca had become an alcoholic, but _ predicted an intervention to address the problem.
+
+Option1: Monica Option2: Rebecca Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1236/1267 | accuracy 997  0.8066343042071198
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The skateboard got broken under the weight of the fat boy and his luggage. The _ is light.\n\nOption1: skateboard Option2: weight Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: The skateboard got broken under the weight of the fat boy and his luggage. The _ is light.
+
+Option1: skateboard Option2: weight Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1237/1267 | accuracy 998  0.8067906224737268
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Lawrence was always gaining weight while Dennis was losing it as _ liked to eat too little.\n\nOption1: Lawrence Option2: Dennis Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Lawrence was always gaining weight while Dennis was losing it as _ liked to eat too little.
+
+Option1: Lawrence Option2: Dennis Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option2
+---------------
+test:1238/1267 | accuracy 998  0.8061389337641357
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The stone still thudded on the floor even though it was dropped on the pillow. The _ is too light.\n\nOption1: stone Option2: pillow Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The stone still thudded on the floor even though it was dropped on the pillow. The _ is too light.
+
+Option1: stone Option2: pillow Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1239/1267 | accuracy 999  0.8062953995157385
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Rachel touches the cool looking bulletproof vest of Kayla due to _ being on an investigation.\n\nOption1: Rachel Option2: Kayla Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Rachel touches the cool looking bulletproof vest of Kayla due to _ being on an investigation.
+
+Option1: Rachel Option2: Kayla Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option2
+---------------
+test:1240/1267 | accuracy 999  0.8056451612903226
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Rachel touches the cool looking bulletproof vest of Kayla due to _ being on a ride along.\n\nOption1: Rachel Option2: Kayla Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Rachel touches the cool looking bulletproof vest of Kayla due to _ being on a ride along.
+
+Option1: Rachel Option2: Kayla Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1241/1267 | accuracy 1000  0.8058017727639001
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Remodeling the kitchen came naturally to Michael but not William because _ had experience being a carpenter's apprentice.\n\nOption1: Michael Option2: William Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Remodeling the kitchen came naturally to Michael but not William because _ had experience being a carpenter's apprentice.
+
+Option1: Michael Option2: William Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1242/1267 | accuracy 1001  0.8059581320450886
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Selena wanted the hairdresser to cut her hair with a razor instead of a clipper, because the _ always gave an edgier look.\n\nOption1: clipper Option2: razor Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Selena wanted the hairdresser to cut her hair with a razor instead of a clipper, because the _ always gave an edgier look.
+
+Option1: clipper Option2: razor Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1243/1267 | accuracy 1002  0.8061142397425584
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Neil cut trees down into lumber every year unlike Logan because _ lives in the city.\n\nOption1: Neil Option2: Logan Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Neil cut trees down into lumber every year unlike Logan because _ lives in the city.
+
+Option1: Neil Option2: Logan Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1244/1267 | accuracy 1003  0.8062700964630225
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Neil cut trees down into lumber every year unlike Logan because _ lives out in the countryside.\n\nOption1: Neil Option2: Logan Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Neil cut trees down into lumber every year unlike Logan because _ lives out in the countryside.
+
+Option1: Neil Option2: Logan Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1245/1267 | accuracy 1004  0.8064257028112449
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: We couldn't extract the blood but got the plasma out, since the _ was reachable by the needle.\n\nOption1: blood Option2: plasma Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: We couldn't extract the blood but got the plasma out, since the _ was reachable by the needle.
+
+Option1: blood Option2: plasma Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1246/1267 | accuracy 1005  0.8065810593900482
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Happiness was most important to Nick but money was most important to William. _ valued a good life.\n\nOption1: Nick Option2: William Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Happiness was most important to Nick but money was most important to William. _ valued a good life.
+
+Option1: Nick Option2: William Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1247/1267 | accuracy 1006  0.8067361668003208
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The sound of the foot was clearly audible from the street because the _ is quiet.\n\nOption1: street Option2: sound Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The sound of the foot was clearly audible from the street because the _ is quiet.
+
+Option1: street Option2: sound Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1248/1267 | accuracy 1006  0.8060897435897436
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: To remove the stain he reached for soap first, then got up and got a bowl.  The _ was close by.\n\nOption1: soap Option2: bowl Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: To remove the stain he reached for soap first, then got up and got a bowl.  The _ was close by.
+
+Option1: soap Option2: bowl Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1249/1267 | accuracy 1006  0.8054443554843875
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: To remove the stain he reached for soap first, then got up and got a bowl.  The _ was far away.\n\nOption1: soap Option2: bowl Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: To remove the stain he reached for soap first, then got up and got a bowl.  The _ was far away.
+
+Option1: soap Option2: bowl Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1250/1267 | accuracy 1007  0.8056
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Kyle asked Brett for some tips on healthy eating because _ has recently lost weight.\n\nOption1: Kyle Option2: Brett Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Kyle asked Brett for some tips on healthy eating because _ has recently lost weight.
+
+Option1: Kyle Option2: Brett Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1251/1267 | accuracy 1008  0.8057553956834532
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The architect tried to build the room inside the house but the _ was too large.\n\nOption1: house Option2: room Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The architect tried to build the room inside the house but the _ was too large.
+
+Option1: house Option2: room Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1252/1267 | accuracy 1009  0.8059105431309904
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The architect tried to build the room inside the house but the _ was too small.\n\nOption1: house Option2: room Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: The architect tried to build the room inside the house but the _ was too small.
+
+Option1: house Option2: room Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1253/1267 | accuracy 1010  0.8060654429369514
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: William was a huge animal rights activist but Randy couldn't care less so _ hated leather.\n\nOption1: William Option2: Randy Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: William was a huge animal rights activist but Randy couldn't care less so _ hated leather.
+
+Option1: William Option2: Randy Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1254/1267 | accuracy 1011  0.80622009569378
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: William was a huge animal rights activist but Randy couldn't care less so _ loved leather.\n\nOption1: William Option2: Randy Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: William was a huge animal rights activist but Randy couldn't care less so _ loved leather.
+
+Option1: William Option2: Randy Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1255/1267 | accuracy 1012  0.8063745019920319
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The school needed a new auditorium and a new teacher's lounge.  They built the _ first because it benefited the faculty more.\n\nOption1: auditorium Option2: teacher's lounge Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: The school needed a new auditorium and a new teacher's lounge.  They built the _ first because it benefited the faculty more.
+
+Option1: auditorium Option2: teacher's lounge Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1256/1267 | accuracy 1013  0.8065286624203821
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The cashier was trained that real $100 bills had sharp lines and counterfeit ones might be blurry, so she accepted the _ bill.\n\nOption1: sharp Option2: blurry Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: The cashier was trained that real $100 bills had sharp lines and counterfeit ones might be blurry, so she accepted the _ bill.
+
+Option1: sharp Option2: blurry Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1257/1267 | accuracy 1014  0.8066825775656324
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: The pressure of finding new jobs is harder than finding new apartments. The _ are high in numbers.\n\nOption1: jobs Option2: apartments Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: The pressure of finding new jobs is harder than finding new apartments. The _ are high in numbers.
+
+Option1: jobs Option2: apartments Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1258/1267 | accuracy 1015  0.8068362480127186
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: She couldn't wear the bra, unlike the shirt, because the _ was the right size.\n\nOption1: bra Option2: shirt Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2"]
+Please choose the correct answer to fill in the blank to complete the given sentence: She couldn't wear the bra, unlike the shirt, because the _ was the right size.
+
+Option1: bra Option2: shirt Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1259/1267 | accuracy 1016  0.806989674344718
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Maria wanted to play poker with Jennifer because _ was a better player and she won a lot of money.\n\nOption1: Maria Option2: Jennifer Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Maria wanted to play poker with Jennifer because _ was a better player and she won a lot of money.
+
+Option1: Maria Option2: Jennifer Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1260/1267 | accuracy 1016  0.8063492063492064
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Angela was a homebody while Amy loved to travel the world whenever they could. _ took a vacation to the beach over the summer.\n\nOption1: Angela Option2: Amy Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: Angela was a homebody while Amy loved to travel the world whenever they could. _ took a vacation to the beach over the summer.
+
+Option1: Angela Option2: Amy Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1261/1267 | accuracy 1017  0.8065027755749405
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Angela was a homebody while Amy loved to travel the world whenever they could. _ took a staycation at home over the summer.\n\nOption1: Angela Option2: Amy Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Angela was a homebody while Amy loved to travel the world whenever they could. _ took a staycation at home over the summer.
+
+Option1: Angela Option2: Amy Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1262/1267 | accuracy 1018  0.8066561014263075
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Kenneth was really scared to have surgery but Neil was very brave about it. _ was under a lot of stress.\n\nOption1: Kenneth Option2: Neil Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Kenneth was really scared to have surgery but Neil was very brave about it. _ was under a lot of stress.
+
+Option1: Kenneth Option2: Neil Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1263/1267 | accuracy 1019  0.8068091844813935
+---------------
+outputs: ["Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Joel went to Michael 's house and consumed a lot of alcohol, so _ had to ride back home as a passenger.\n\nOption1: Joel Option2: Michael Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1"]
+Please choose the correct answer to fill in the blank to complete the given sentence: Joel went to Michael 's house and consumed a lot of alcohol, so _ had to ride back home as a passenger.
+
+Option1: Joel Option2: Michael Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1264/1267 | accuracy 1020  0.8069620253164557
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: At the new restaurant, Betty convinced Lindsey to try fried brussel sprouts.  _ was relieved when she tried new things.\n\nOption1: Betty Option2: Lindsey Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: At the new restaurant, Betty convinced Lindsey to try fried brussel sprouts.  _ was relieved when she tried new things.
+
+Option1: Betty Option2: Lindsey Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option1
+---------------
+test:1265/1267 | accuracy 1020  0.8063241106719368
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: Jane received a pet tortoise and an aquarium as a birthday gift, but the _ was too small.\n\nOption1: aquarium Option2: tortoise Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option1']
+Please choose the correct answer to fill in the blank to complete the given sentence: Jane received a pet tortoise and an aquarium as a birthday gift, but the _ was too small.
+
+Option1: aquarium Option2: tortoise Answer format: option1/option2
+the correct answer is option1
+prediction: option1
+label: option1
+---------------
+test:1266/1267 | accuracy 1021  0.806477093206951
+---------------
+outputs: ['Below is an instruction that describes a task. Write a response that appropriately completes the request. \n\n                ### Instruction:\n                Please choose the correct answer to fill in the blank to complete the given sentence: She chose the black car over the green car, because the _ has more brighter color.\n\nOption1: black car Option2: green car Answer format: option1/option2\n\n                ### Response:\n                \n                the correct answer is option2']
+Please choose the correct answer to fill in the blank to complete the given sentence: She chose the black car over the green car, because the _ has more brighter color.
+
+Option1: black car Option2: green car Answer format: option1/option2
+the correct answer is option2
+prediction: option2
+label: option2
+---------------
+test:1267/1267 | accuracy 1022  0.8066298342541437
+---------------
+
+
+test finished

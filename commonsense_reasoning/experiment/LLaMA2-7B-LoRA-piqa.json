@@ -31,9 +31,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: ice box\n\nSolution1: will turn into a cooler if you add water to it\n\nSolution2: will turn into a cooler if you add soda to it\n\nAnswer format: solution1/solution2",
@@ -85,9 +85,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Extend life of flowers in vase.\n\nSolution1: Add small amount of coffee in vase.\n\nSolution2: Add small amount of 7UP in vase.\n\nAnswer format: solution1/solution2",
@@ -319,9 +319,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To spare the plant while picking lettuce\n\nSolution1: grab one leaf with one hand, bend the plant stalk near the leaf with the other hand, and pull it down and away from the leaf.\n\nSolution2: grab one leaf with one hand, hold the stalk near the leaf with the other hand, and then pull the leaf down breaking it from the plant.\n\nAnswer format: solution1/solution2",
@@ -337,9 +337,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: generate poetry by using random words.\n\nSolution1: Find a bunch of letters you like, about 150 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the letters you can see as words, add a few of your own and call it poetry.\n\nSolution2: Find a bunch of words you like, about 50 of them.  Print them on paper and cut them from one another.  Place the paper pieces in a cup.  Turn the cup upside down. Rewrite the words you can see, add a few of your own and call it poetry.\n\nAnswer format: solution1/solution2",
@@ -463,9 +463,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Kill fruit flies easily.\n\nSolution1: Spray with alcohol, then sweep away.\n\nSolution2: Spray with water, then sweep away.\n\nAnswer format: solution1/solution2",
@@ -598,9 +598,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To shape duct tape into a perfect circle.\n\nSolution1: Use a gasket punch and a hammer.\n\nSolution2: Use a nail and a hammer.\n\nAnswer format: solution1/solution2",
@@ -634,9 +634,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: One wants to eat Vegetarian.\n\nSolution1: One could have Eggs Benedict.\n\nSolution2: One could have Eggs Florentine.\n\nAnswer format: solution1/solution2",
@@ -670,9 +670,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To bend a PVC conduit,\n\nSolution1: Use a heat source on the conduit. A flamethrower is recommended. Point the flamethrower  toward the spot you wand the conduit to bend and turn it on. Bend with your hands gently. Be sure to wear gloves doing so or you might be burned.\n\nSolution2: Use a heat source on the conduit. A heat gun is recommended. Point the heat gun toward the spot you wand the conduit to bend and turn it on. Bend with your hands gently. Be sure to wear gloves doing so or you might be burned.\n\nAnswer format: solution1/solution2",
@@ -751,9 +751,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Get cheap pizza.\n\nSolution1: Call pizza place and ask for a discount on abandoned pizzas.\n\nSolution2: Call pizza place and ask for a discount on incomplete cooked pizzas.\n\nAnswer format: solution1/solution2",
@@ -769,9 +769,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: What supplies are needed to make a  small decorative Christmas tree?\n\nSolution1: Styrofoam cone        Mini plastic spoons        Mixed beads        One ornament star        Scissors        Hot water gun        Gold spray paint\n\nSolution2: Styrofoam cone        Mini plastic spoons        Mixed beads        One ornament star        Scissors        Hot glue gun        Gold spray paint\n\nAnswer format: solution1/solution2",
@@ -805,9 +805,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To dye the white fondant to make the fondant roses\n\nSolution1: Dip the fondant in the food coloring and then rub in  the food coloring  then knead until the color is evenly distributed\n\nSolution2: Dip a toothpick in the food coloring and then rub the food coloring onto the white fondant, then knead until the color is evenly distributed\n\nAnswer format: solution1/solution2",
@@ -1021,9 +1021,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To get bricks to stay together permanently when building a structure, you can\n\nSolution1: Use velcro to hold the bricks together\n\nSolution2: Use mortar to hold the bricks together\n\nAnswer format: solution1/solution2",
@@ -1039,9 +1039,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Learn how to use a candy thermometer.\n\nSolution1: Place the candy thermometer in the pan with the cooking candy, be sure the top of the thermometer never touches the bottom of the pan, or the temperature will register too high.\n\nSolution2: Place the candy thermometer in the pan with the cooking candy, be sure the bulb of the thermometer never touches the bottom of the pan, or the temperature will register too high.\n\nAnswer format: solution1/solution2",
@@ -1183,9 +1183,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: When heating milk to make cheese\n\nSolution1: Leave in place without disrupting to prevent the milk from burning\n\nSolution2: Stir the whole time to prevent the milk from burning\n\nAnswer format: solution1/solution2",
@@ -1264,9 +1264,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you smear liquid?\n\nSolution1: pour it all over.\n\nSolution2: rub it all over.\n\nAnswer format: solution1/solution2",
@@ -1300,9 +1300,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can a person use images from the internet to create a Candy advent calendar?\n\nSolution1: Use a printer to print the image\n\nSolution2: Use a pen and paper and recreate the image by hand\n\nAnswer format: solution1/solution2",
@@ -1399,9 +1399,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Make a yoga mat carrier.\n\nSolution1: Wrap one end with bungee cord.\n\nSolution2: Wrap center with bungee cord.\n\nAnswer format: solution1/solution2",
@@ -1435,9 +1435,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Who wants dirt tracked inside the tent?\n\nSolution1: Keep a shoe box near the entrance to collect those dirty shoes and keep your tent floor spic and span.\n\nSolution2: Keep a shoe basket near the entrance to collect those dirty shoes and keep your tent floor spic and span.\n\nAnswer format: solution1/solution2",
@@ -1507,9 +1507,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make smoky pretzel mix\n\nSolution1: Mix Melt 1/2 stick butter with 3 tablespoons brown sugar, 1 teaspoon smoked apple and cherry wood chips and 1/4 teaspoon cayenne. Toss with 3 cups mini pretzels and 2 cups mixed nuts. Spread on a baking sheet and bake 20 minutes at 325 degrees F, stirring.\n\nSolution2: Mix Melt 1/2 stick butter with 3 tablespoons brown sugar, 1 teaspoon smoked paprika and 1/4 teaspoon cayenne. Toss with 3 cups mini pretzels and 2 cups mixed nuts. Spread on a baking sheet and bake 20 minutes at 325 degrees F, stirring.\n\nAnswer format: solution1/solution2",
@@ -1822,9 +1822,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to keep colors from fading in the wash\n\nSolution1: wash clothes inside out, and on cool\n\nSolution2: wash clothes inside out, and on a cool dryer\n\nAnswer format: solution1/solution2",
@@ -1858,9 +1858,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To create the force behind a DIY table top crushing press.\n\nSolution1: Use a re-purposed car jack.\n\nSolution2: Use a re-purposed jackhammer.\n\nAnswer format: solution1/solution2",
@@ -1885,9 +1885,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make the front of your DIY Viking Cardboard shield?\n\nSolution1: Take a strip of paper then place a thumbtack in the end of your cardboard. Trace the desired length with a pencil. Cut out with scissors carefully.\n\nSolution2: Take a strip of paper then place a thumbtack in the center of your cardboard. Trace the desired length with a pencil. Cut out with scissors carefully.\n\nAnswer format: solution1/solution2",
@@ -1948,9 +1948,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: spoons\n\nSolution1: can scoop books \n\nSolution2: can scoop ice cubes \n\nAnswer format: solution1/solution2",
@@ -2173,9 +2173,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: What can I use to go to London the quickest\n\nSolution1: The best method would be to use a dinghy boat and paddle\n\nSolution2: The best method would be to book an airplane ticket and fly\n\nAnswer format: solution1/solution2",
@@ -2191,9 +2191,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to get people to come to the carnival.\n\nSolution1: Put the best show you have on free display but in the back of the circus. By time they get to that display they'll have spent a bundle\n\nSolution2: Offer to let them in on BOGO ticket.\n\nAnswer format: solution1/solution2",
@@ -2380,9 +2380,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: What supplies are needed to make homemade butter?\n\nSolution1: Heavy, whipping cream        Salt        Mini Food Processor        Hand Held Strainer        Wooden Spoon        Bowl        Ice and Water        Wire Cutters (optional)\n\nSolution2: Heavy, whipping cream        Salt        Mini Food Processor        Hand Held Strainer        Wooden Spoon        Bowl        Ice and Water        Cookie Cutters (optional)\n\nAnswer format: solution1/solution2",
@@ -2416,18 +2416,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To follow a link in a task.\n\nSolution1: Right click on the link once to follow it.\n\nSolution2: Left click on the link once to follow it.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: peeler\n\nSolution1: Can carve neat  edge  on frame\n\nSolution2: Can carve neat  jellow affixes on frame\n\nAnswer format: solution1/solution2",
@@ -2497,9 +2497,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Best way to pierce ears.\n\nSolution1: It is best to go to a professional to get your ear pierced to avoid medical problems later.\n\nSolution2: The best way to pierce your ears would be to insert a needle half inch thick into the spot you want pierced.\n\nAnswer format: solution1/solution2",
@@ -2578,9 +2578,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: what is the best way to apply car wax?\n\nSolution1: use a power washer, with liquid wax\n\nSolution2: use a power buffer\n\nAnswer format: solution1/solution2",
@@ -2776,9 +2776,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To sew the bike inner tube fabric using a sewing machine.\n\nSolution1: Change the sewing machine needle to a denim/leather needle. Lay the inner tube fabric on top of each other and run through the sewing machine at the desired edge to be sewn.\n\nSolution2: Change the sewing machine needle to a lace needle. Lay the inner tube fabric on top of each other and run through the sewing machine at the desired edge to be sewn.\n\nAnswer format: solution1/solution2",
@@ -2956,9 +2956,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you tell if a water bottle has been opened?\n\nSolution1: Test the cap and see if it breaks the seal to open.\n\nSolution2: See if there is any water missing from the bottle.\n\nAnswer format: solution1/solution2",
@@ -3028,9 +3028,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To save plants from rot root.\n\nSolution1: Use a 3% hydrogen peroxide solution once a day and spritz the seed every time you re-moisten. You can also use a mixture of 20 parts hydrogen peroxide to 32 parts water to improve your plants\u2019 root system.\n\nSolution2: Use a 3% hydrogen peroxide solution once a day and spritz the seed every time you re-moisten. You can also use a mixture of 1 part hydrogen peroxide to 32 parts water to improve your plants\u2019 root system.\n\nAnswer format: solution1/solution2",
@@ -3073,9 +3073,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: One seeks to shield themselves from the rain via easy DIY methods.\n\nSolution1: One should make a jacket.\n\nSolution2: One should make an umbrella.\n\nAnswer format: solution1/solution2",
@@ -3136,9 +3136,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To cut the bacon for the zombie burger\n\nSolution1: lay the bacon strips on top of each other and cut all four at once into 3/4' pieces\n\nSolution2: lay the bacon strips end to end  cut all four at once into 3/4' pieces\n\nAnswer format: solution1/solution2",
@@ -3289,9 +3289,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you use dumbbell bars?\n\nSolution1: you lift them with your ankles.\n\nSolution2: you life them with your arms.\n\nAnswer format: solution1/solution2",
@@ -3388,9 +3388,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Treat a dry nose.\n\nSolution1: Apply vaseline outside of nose.\n\nSolution2: Apply vaseline inside of nose.\n\nAnswer format: solution1/solution2",
@@ -3433,9 +3433,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to quickly cool down a bottled water drink?\n\nSolution1: Run the paper towel under some water and wrap a bottle around it then place in the freezer for 20 minutes\n\nSolution2: Run the bottle under some water and wrap a paper towel around it then place in the freezer for 20 minutes\n\nAnswer format: solution1/solution2",
@@ -3487,9 +3487,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To absorb moisture in a closet, to preserve clothing,\n\nSolution1: leave a cup of water inside the closet space.\n\nSolution2: leave a bundle of chalk hanging in the closet.\n\nAnswer format: solution1/solution2",
@@ -3514,9 +3514,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To keep from making a mess when putting holes in drywall.\n\nSolution1: Tape an elastic below small drywall projects to keep clean-up easy.\n\nSolution2: Tape an envelope below small drywall projects to keep clean-up easy.\n\nAnswer format: solution1/solution2",
@@ -3685,9 +3685,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you check something in the stove without opening the door?\n\nSolution1: shine a flashlight inside.\n\nSolution2: turn on the stove light.\n\nAnswer format: solution1/solution2",
@@ -3712,9 +3712,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how to add feet to a coaster.\n\nSolution1: place a board under the coaster, and secure with zip ties and a glue gun.\n\nSolution2: cut four slices from a glue stick, and attatch to the coaster with glue.\n\nAnswer format: solution1/solution2",
@@ -3739,9 +3739,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Easy way to maintain a shopping list for groceries.\n\nSolution1: Save time by creating your shopping list during the week. Keep a blank piece of paper or use a magnetic message board and as you run out of things, write them down. That way you won't need to waste time thinking about what you ran out of.\n\nSolution2: Save time by creating your shopping bag during the week. Keep a blank piece of paper or use a magnetic message board and as you run out of things, put them in the bag. That way you won't need to waste time thinking about what you ran out of.\n\nAnswer format: solution1/solution2",
@@ -3910,9 +3910,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To help clear out breathing ways when you're congested,\n\nSolution1: caramelize sugar in a pan and breathe in the steam from it.\n\nSolution2: cook a chopped onion on a pan and lean over it while cooking.\n\nAnswer format: solution1/solution2",
@@ -3955,9 +3955,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I preserve a 63-year-old bomber jacket that my father wore in WWII?\n\nSolution1: use neatsfoot oil for moisture. Treat it like a baseball glove. Keep it on a padded hanger, and only take it to a cleaner that specializes in leather of that kind.\n\nSolution2: use neatsfoot oil for moisture. Treat it like a baseball glove. Keep it on a padded hanger, and only take it to a carpet cleaner that specializes in leather of that kind.\n\nAnswer format: solution1/solution2",
@@ -3973,9 +3973,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you grill fish without it falling apart?\n\nSolution1: Reduce the heat to medium, cover the grill, and cook without moving the fish until the skin side is brown, well marked, and crisp, 2 to 4 minutes. 6. Try lifting the fish gently with a spoon after 2 minutes; if it doesn't cleanly lift off grill, continue to cook, checking at 30-second intervals, until it releases.\n\nSolution2: Reduce the heat to medium, cover the grill, and cook without moving the fish until the skin side is brown, well marked, and crisp, 2 to 4 minutes. 6. Try lifting the fish gently with a spatula after 2 minutes; if it doesn't cleanly lift off grill, continue to cook, checking at 30-second intervals, until it releases.\n\nAnswer format: solution1/solution2",
@@ -4090,9 +4090,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to heat a knife to cut thru plastic, rope and other hard materials\n\nSolution1: Using a soldering iron, remove the tip from the iron and remove the blade from the Exacto knife. Insert the blade holder from the knife into the soldering iron and then put the blade back into the Exacto knife. Heat the knife on a safe, flame resistant surface like a piece of paper.\n\nSolution2: Using a soldering iron, remove the tip from the iron and remove the blade from the Exacto knife. Insert the blade holder from the knife into the soldering iron and then put the blade back into the Exacto knife. Heat the knife on a safe, flame resistant surface like a ceramic  tile.\n\nAnswer format: solution1/solution2",
@@ -4198,9 +4198,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: desktop keyboard\n\nSolution1: can be used to play a game on  a personal computer \n\nSolution2: can be used to play a game on  a basketball court \n\nAnswer format: solution1/solution2",
@@ -4243,9 +4243,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to seal off small damage on a plastic surface?\n\nSolution1: Melt some Vaseline into the damaged areas and then scrape away excess Vaseline and place some wax over the vaseline\n\nSolution2: Melt some wax into the damaged areas and then scrape away excess wax and place some vaseline over the wax\n\nAnswer format: solution1/solution2",
@@ -4270,9 +4270,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I remove wrinkles from clothing?\n\nSolution1: Throw a wet wash cloth in with dry clothes and run dryer.\n\nSolution2: Throw a dry wash cloth in with dry clothes and run dryer.\n\nAnswer format: solution1/solution2",
@@ -4288,9 +4288,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how to clean road salt off of leather shoes\n\nSolution1: To preserve your leather shoes, dip a clean disposable diaper, soft rage in a one-to-one solution of water and vinegar and wipe away the salt.\n\nSolution2: To preserve your leather shoes, dip a clean, soft rage in a one-to-one solution of water and vinegar and wipe away the salt.\n\nAnswer format: solution1/solution2",
@@ -4333,18 +4333,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: dresser\n\nSolution1: can be a stand for a  flower vase  \n\nSolution2: can be a stand for a  shoe \n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to open an electronic gadget's case\n\nSolution1: Use a thick guitar pick as a pry along the edges of the case to open it.\n\nSolution2: Use a thick water pick as a pry along the edges of the case to open it.\n\nAnswer format: solution1/solution2",
@@ -4396,27 +4396,27 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: comb\n\nSolution1: is used to be smaller than soil \n\nSolution2: is used to be smaller than hatchet \n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: my eggs are almost expired, do I have to toss them?\n\nSolution1: crack, and freeze in plastic bags.\n\nSolution2: bake the eggs whole in their shells for six hours, and freeze.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "10000000000000000000000000000000",
-        "pred": "",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Make a candy cane ornament out of beads and a pipe cleaner\n\nSolution1: Thread alternating red and white beads onto a pipe. Fold over the last bead to create a knot. Bend into a candy cane shape\n\nSolution2: Thread alternating red and white beads onto a pipe cleaner. Fold over the last bead to create a knot. Bend into a candy cane shape\n\nAnswer format: solution1/solution2",
@@ -4468,18 +4468,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: radio\n\nSolution1: can be used to listen to  music if it doesn't have batteries\n\nSolution2: can be used to listen to  silence if it doesn't have batteries\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make an effective piece of origami,\n\nSolution1: use colorful paper that can be glued together easily.\n\nSolution2: use colorful paper that can hold a crease easily.\n\nAnswer format: solution1/solution2",
@@ -4603,9 +4603,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make caramel popcorn.\n\nSolution1: Put caramel on popcorn kernels then cook them on the stove top until they pop, once they are all popped you are ready to eat.\n\nSolution2: Pop microwave popcorn and then melt some caramel on the stove. Pour the caramel on the cooled popcorn.\n\nAnswer format: solution1/solution2",
@@ -4720,9 +4720,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a simple chili recipe, a cook would need to have,\n\nSolution1: beef, beans, tomatoes, peppers, dried chilies, onions, garlic, broth and water.\n\nSolution2: beef, milk, cheese, bell pepper, curry powder and yellow mustard for seasoning.\n\nAnswer format: solution1/solution2",
@@ -4990,9 +4990,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to hide scratches on leather furniture.\n\nSolution1: Use a different color shoe polish to cover the scratches. Rub off any excess.\n\nSolution2: Use the same color shoe polish to cover the scratches. Rub off any excess.\n\nAnswer format: solution1/solution2",
@@ -5098,9 +5098,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To make use out of coffee grounds,\n\nSolution1: mix them with coconut oil and sea salt to make a body scrub.\n\nSolution2: mix them into your casseroles for extra flavoring in meals.\n\nAnswer format: solution1/solution2",
@@ -5116,9 +5116,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make sweet potato spoonbread\n\nSolution1: Bring 2 cups milk, 2 tablespoons each butter and brown sugar, 1 teaspoon kosher salt and a pinch of cayenne to a boil. Reduce the heat to a simmer; whisk in 1/2 cup cornmeal. Cook, whisking, until thickened, 2 minutes. Whisk in 1 cup canned sweet potato puree, 3 egg yolks and 1 teaspoon baking powder. Remove from the heat. Beat 3 egg whites to stiff peaks; fold into the batter. Transfer to a buttered 8-inch square baking dish; bake at 375 degrees F until puffed, 30 minutes.\n\nSolution2: Bring 2 cups milk, 2 tablespoons each butter and brown sugar, 1 teaspoon kosher salt and a pinch of cayenne to a boil. Reduce the heat to a simmer; whisk in 1/2 cup cornmeal. Cook, pureeing, until thickened, 2 minutes. Whisk in 1 cup canned sweet potato puree, 3 egg yolks and 1 teaspoon baking powder. Remove from the heat. Beat 3 egg whites to stiff peaks; fold into the batter. Transfer to a buttered 8-inch square baking dish; bake at 375 degrees F until puffed, 30 minutes.\n\nAnswer format: solution1/solution2",
@@ -5143,9 +5143,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to cut dragonfly wings out of metal.\n\nSolution1: Use cutting disc and cut along lines carefully.\n\nSolution2: Use scissors and cut along lines carefully.\n\nAnswer format: solution1/solution2",
@@ -5161,9 +5161,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Prevent cold sore from spreading.\n\nSolution1: Replace toothbrush.\n\nSolution2: Replace bathroom sink.\n\nAnswer format: solution1/solution2",
@@ -5188,9 +5188,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Remove sand from feet.\n\nSolution1: Rub with baby oil.\n\nSolution2: Rub with baby powder.\n\nAnswer format: solution1/solution2",
@@ -5215,9 +5215,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: machete\n\nSolution1: can measure a ruler \n\nSolution2: can slide through a ruler \n\nAnswer format: solution1/solution2",
@@ -5287,9 +5287,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: to keep from ruining the walls when painting\n\nSolution1: Use double-sided tape or hot glue UNDER painter's tape\n\nSolution2: Use double-sided tape or hot glue OVER painter's tape\n\nAnswer format: solution1/solution2",
@@ -5503,9 +5503,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to serve chicken for a family?\n\nSolution1: Once the chicken is roasted, slice away the thigh with the drumstick in tact on both sides and then remove the breast and wing on both sides\n\nSolution2: Once the chicken is roasted, slice away the thigh with the drumstick in tact on one side and then remove the breast and wing on one side\n\nAnswer format: solution1/solution2",
@@ -5719,9 +5719,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I easily add decorative feathers to a dream catcher?\n\nSolution1: Cut a feather boa into similar lengths and hang them from the bottom of the dream catcher with fishing line.\n\nSolution2: Shred a feather boa into tiny bits and hang them from the bottom of the dream catcher with fishing line.\n\nAnswer format: solution1/solution2",
@@ -5782,9 +5782,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To clean the front grill of your refrigerator\n\nSolution1: Remove it from your refrigerator and wash with water from the hose attachment.\n\nSolution2: Remove it from your refrigerator and wash in the washing machine.\n\nAnswer format: solution1/solution2",
@@ -5872,9 +5872,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a graham cracker crust, to turn graham crackers to crumbs, you can\n\nSolution1: Run the graham crackers through a food processor\n\nSolution2: Run the graham crackers through a cheese grater\n\nAnswer format: solution1/solution2",
@@ -5899,9 +5899,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: what is a great  rub for chicken?\n\nSolution1: add a bit of hot chocolate mix to a teaspoon of rice flour, and coat the chicken inside and out\n\nSolution2: grind dried lime peels with whole chilis, and rub on the chicken.\n\nAnswer format: solution1/solution2",
@@ -6007,9 +6007,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Prevent people from approaching you in public.\n\nSolution1: Wear headphones.\n\nSolution2: Wear a green hat.\n\nAnswer format: solution1/solution2",
@@ -6115,9 +6115,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you open a wrapped present?\n\nSolution1: tear off all the wrapping.\n\nSolution2: cut off the wrapping paper.\n\nAnswer format: solution1/solution2",
@@ -6475,18 +6475,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Add shine to microwave.\n\nSolution1: Clean interior with lemon oil.\n\nSolution2: Clean exterior with lemon oil.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you make soup?\n\nSolution1: boil it in a crock pot or a pot.\n\nSolution2: boil it in a frying pan.\n\nAnswer format: solution1/solution2",
@@ -6502,18 +6502,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: marker\n\nSolution1: erases  pencil marks\n\nSolution2: instead of pencil \n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I keep a bathroom mirror from fogging up?\n\nSolution1: Wipe down with shaving cream.\n\nSolution2: Wipe down with shaving razor.\n\nAnswer format: solution1/solution2",
@@ -6826,9 +6826,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I prepare my parchment paper when making pavlova cookies at home?\n\nSolution1: Cut two sheets of parchment paper to fit the cookie sheet and trace circles on the parchment paper where you want your cookies to be.\n\nSolution2: Cut two sheets of parchment paper to fit the cookie sheet and trace circles on the serrated knife where you want your cookies to be.\n\nAnswer format: solution1/solution2",
@@ -6997,9 +6997,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you close off the balloon at the opening to make sure the beads do not fall out in a stress ball?\n\nSolution1: Cut the opening off the balloon to make sure the beads do not fall out.\n\nSolution2: Tie off the opening off the balloon to make sure the beads do not fall out.\n\nAnswer format: solution1/solution2",
@@ -7114,9 +7114,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To clean a toilet bowl,\n\nSolution1: squeeze toilet bowl cleaner up under the bowl rim all the way around and use a toilet bowl brush to scrub out the entire bowl.\n\nSolution2: squeeze toilet bowl cleaner up under the bowl rim all the way around and use a wet wash rag to scrub out the entire bowl.\n\nAnswer format: solution1/solution2",
@@ -7132,9 +7132,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to remove the frame from an old pop up camper?\n\nSolution1: Use the blunt end of an ax to knock down the frame of an old pop up camper.\n\nSolution2: Use the blunt end of an broom to knock down the frame of an old pop up camper.\n\nAnswer format: solution1/solution2",
@@ -7267,18 +7267,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a piece of wood darker in color,\n\nSolution1: soak the wood in Vodka or Ethanol.\n\nSolution2: soak the wood in a vat of coffee or tea.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: sweat band\n\nSolution1: cover  heads \n\nSolution2: cover  pillows \n\nAnswer format: solution1/solution2",
@@ -7330,9 +7330,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Retain study notes in brain.\n\nSolution1: Go over notes one last time one week before test.\n\nSolution2: Go over notes one last time one day before test.\n\nAnswer format: solution1/solution2",
@@ -7348,9 +7348,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make grapefruit taste sweeter\n\nSolution1: add citric acid to the grapefruit\n\nSolution2: add salt to the grapefruit\n\nAnswer format: solution1/solution2",
@@ -7411,9 +7411,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Stop a key from sticking in a lock, or from being difficult to put into a lock.\n\nSolution1: Use a paper towel and apply some glue to the key.  Wipe the key almost clean, a small amount of glue will be left behind allowing the key to slide in and out easily.\n\nSolution2: Use a paper towel and apply some oil to the key.  Wipe the key almost clean, a small amount of oil will be left behind allowing the key to slide in and out easily.\n\nAnswer format: solution1/solution2",
@@ -7456,9 +7456,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make Fresh Peach Ice Cream at home.\n\nSolution1: In a large bowl combine 4 cups half and half (Or light cream)1 1/2 cups sugar, and 1 tablespoon vanilla.  Stir until sugar dissolves.  Stir in 2 cups whipping cream. In a blender blend 4 cups fresh Peaches (cut up and remove skins before blending) until nearly smooth.  Add this to Ice cream mixture. Freeze in 4 or 5 quart Ice cream freezer according to manufacturers directions. Serve with fresh peaches.\n\nSolution2: In a large bowl combine 4 cups half and half (Or light cream)1 1/2 cups sugar, and 1 tablespoon vanilla.  Stir until sugar dissolves.  Stir in 2 cups whipping cream. In a blender blend 4 cups fresh Peaches (cut up and remove skins before blending) until nearly smooth.  Add this to Ice cream mixture. Boil  in 4 or 5 quart Ice cream freezer according to manufacturers directions. Serve with fresh peaches.\n\nAnswer format: solution1/solution2",
@@ -7654,9 +7654,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Brush dust off eyebrows.\n\nSolution1: Use toothbrush to groom.\n\nSolution2: Use dental floss to groom.\n\nAnswer format: solution1/solution2",
@@ -7672,9 +7672,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To decrease the amount of car pollution in the atmostphere,\n\nSolution1: carpool to work with a couple of other people so they don't all drive separate vehicles.\n\nSolution2: arrange with other coworkers to be sure that everyone drives their own vehicles.\n\nAnswer format: solution1/solution2",
@@ -7699,9 +7699,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To prepare plums for filling.\n\nSolution1: Plums, washed and steamed dry. You can either halved them, or quartered them. Depending how big you want your dumplings to be. If you quartered them, this recipe should make at least 20 dumplings.\n\nSolution2: Plums, washed and patted dry. You can either halved them, or quartered them. Depending how big you want your dumplings to be. If you quartered them, this recipe should make at least 20 dumplings.\n\nAnswer format: solution1/solution2",
@@ -7717,9 +7717,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To obtain water that is hot enough to clean jewelry, you can\n\nSolution1: Place the water in the microwave for one to two hours\n\nSolution2: Place the water in the microwave for one to two minutes\n\nAnswer format: solution1/solution2",
@@ -7735,9 +7735,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To temper chocolate.\n\nSolution1: Take roughly 2/3 of your chocolates (use good quality dark chocolate) put it in a metal bowl that sits perfectly on top of your saucepan. The bottom of the bowl should not touch the water. Bring the water to boil then melt the chocolate on low heat. Measure the temperature occasionally, remove the bowl from the heat when it gets to 41-43 Celsius.\n\nSolution2: Take roughly 2/3 of your chocolates (use good quality dark chocolate) put it in a metal bowl that sits perfectly on top of your saucepan. The bottom of the bowl should not touch the water. Bring the water to boil then melt the chocolate on low heat. Measure the temperature constantly, remove the bowl from the heat when it gets to 41-43 Celsius.\n\nAnswer format: solution1/solution2",
@@ -7870,9 +7870,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To secure the thread when using your sewing machine.\n\nSolution1: Remember to back stitch at the start and end of your sewn lines to secure the yarn.\n\nSolution2: Remember to back stitch at the start and end of your sewn lines to secure the thread.\n\nAnswer format: solution1/solution2",
@@ -7996,9 +7996,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Prevent feet from sweating when wearing flats.\n\nSolution1: Sprinkle inside of shoes with dry shampoo.\n\nSolution2: Sprinkle outside of shoes with dry shampoo.\n\nAnswer format: solution1/solution2",
@@ -8059,9 +8059,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to remove pesticides from fruit?\n\nSolution1: Fill a large bowl with 3 cups of warm water. Then add a tablespoon of vinegar and stir gently. Place your fruits in the mixture and wait for 30 minutes.\n\nSolution2: Fill a large bowl with 3 cups of warm water. Then add a tablespoon of chlorine gas and stir gently. Place your fruits in the mixture and wait for 30 minutes.\n\nAnswer format: solution1/solution2",
@@ -8086,18 +8086,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: a  shovel\n\nSolution1: can be used to pick up jello off the ground\n\nSolution2: can be used to pick up oil off the ground\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To rinse out an egg hair mask,\n\nSolution1: use boiling water and some shampoo.\n\nSolution2: use just warm water and some shampoo.\n\nAnswer format: solution1/solution2",
@@ -8140,9 +8140,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: fist\n\nSolution1: grips house \n\nSolution2: grips spoon \n\nAnswer format: solution1/solution2",
@@ -8221,9 +8221,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you make a snow ball?\n\nSolution1: Scoop up a large amount of snow with a shovel. Use one hand to pack it together, twisting it as you go.\n\nSolution2: Scoop up a handful of snow with one hand. Use both hands to pack it together, turning it as you go.\n\nAnswer format: solution1/solution2",
@@ -8284,9 +8284,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make Tropical Storm sauce at home.\n\nSolution1: Mix 1 cup Mangoes rind, 1 cup pineapple oil, 1/2 cup  coconut  oil 3/4 cup water, 1 cup sugar and stir over medium heat on stove for 30 min.\n\nSolution2: Mix 1 cup chopped  Mangoes, 1 cup chopped pineapple, 1/2 cup chopped coconut 3/4 cup water, 1 cup sugar and stir over medium heat on stove for 30 min.\n\nAnswer format: solution1/solution2",
@@ -8428,9 +8428,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I keep my garbage disposal blades sharp and in good repair?\n\nSolution1: Once a month add 6 metal washers into your disposal and turn it on and wash it away, this will sharpen and clean the garbage disposal.\n\nSolution2: Once a month add 6 ice cubes into your disposal and turn it on and wash it away, this will sharpen and clean the garbage disposal.\n\nAnswer format: solution1/solution2",
@@ -8455,9 +8455,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: push pin\n\nSolution1: to sew and mend mittens \n\nSolution2: to hang mittens on corkboard\n\nAnswer format: solution1/solution2",
@@ -8473,9 +8473,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make hole in tin can.\n\nSolution1: Use a bobby pin to drill hole into sides of the can.\n\nSolution2: Use a drill to drill hole into sides of the can.\n\nAnswer format: solution1/solution2",
@@ -8491,9 +8491,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: When working with foam that contains hazardous chemicals, to remove the chemicals, you could\n\nSolution1: Allow it to sit in the freezer for a while so that the chemicals can offgas\n\nSolution2: Allow it to sit in the sun for a while so that the chemicals can offgas\n\nAnswer format: solution1/solution2",
@@ -8536,9 +8536,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To increase the power of a vacuum,\n\nSolution1: cut out any hairs caught in the suction part.\n\nSolution2: leave it running for awhile to build up it's power.\n\nAnswer format: solution1/solution2",
@@ -8860,9 +8860,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to pit cherries without a pitter\n\nSolution1: Use an empty slow cooker and a hard straw or chopstick to remove pits from cherries and olives.\n\nSolution2: Use an empty bottle and a hard straw or chopstick to remove pits from cherries and olives.\n\nAnswer format: solution1/solution2",
@@ -8932,9 +8932,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make a simple camping lantern.\n\nSolution1: Use a 1 gallon milk jug filled with batter operated fairy lights to create a stylish and simple camping lantern.\n\nSolution2: Simply set an empty clean 1 gallon milk jug made of translucent plastic on top of an led light. Or, you can strap a headlamp led light to the milk jug with the light facing the jug.\n\nAnswer format: solution1/solution2",
@@ -9022,9 +9022,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: glasses\n\nSolution1: allow people to breathe when worn\n\nSolution2: allow people to see when worn\n\nAnswer format: solution1/solution2",
@@ -9067,18 +9067,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make holes in the sides of a plastic soda bottle.\n\nSolution1: Poke holes with a soldering iron.\n\nSolution2: Melt holes with a soldering iron.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: What else should I add to a peanut butter sandwich?\n\nSolution1: Take some pasta sauce and put it onto the other piece of bread with a knife.\n\nSolution2: Take some jelly and put it onto the other piece of bread with a knife.\n\nAnswer format: solution1/solution2",
@@ -9094,9 +9094,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you trip on something?\n\nSolution1: almost fall over it.\n\nSolution2: jump over it.\n\nAnswer format: solution1/solution2",
@@ -9130,9 +9130,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you crumple a paper?\n\nSolution1: fold it up and squish it.\n\nSolution2: ball it up and squish it.\n\nAnswer format: solution1/solution2",
@@ -9166,9 +9166,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Bend a piece of thin steel in half to make a loop\n\nSolution1: Hold the metal with pliers or your hand and heat with a propane torch, After it cools, bend with pliers\n\nSolution2: Hold the metal with pliers or a vice and heat with a propane torch. While it is hot, bend with pliers\n\nAnswer format: solution1/solution2",
@@ -9193,18 +9193,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Make emergency car cup holder.\n\nSolution1: Place cup in hat.\n\nSolution2: Place cup in shoe.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I get the window of my van clean?\n\nSolution1: Use some wood cleaner and a rag to clean the window.\n\nSolution2: Use some glass cleaner and a rag to clean the window.\n\nAnswer format: solution1/solution2",
@@ -9292,9 +9292,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To prepare the cream for baking,\n\nSolution1: measure 2 cups of heavy cream with a measuring cup and pour into an 8\" square baking dish.\n\nSolution2: measure 2 cups of heavy cream with a measuring cup and pour into an 8\" round colander.\n\nAnswer format: solution1/solution2",
@@ -9355,9 +9355,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To wash your hands,\n\nSolution1: pump one pump of hand soap into your palms, turn on the faucet with your hand, and form a later with the soap and water into your hands, rubbing your palms, fingers, and nails, then rinse the soap away with water.\n\nSolution2: pump one pump of hand soap into your palms, turn on the faucet with your hand, and allow the water from the faucet to run over the soap in the middle of your palms, then rinse the soap away with water.\n\nAnswer format: solution1/solution2",
@@ -9382,9 +9382,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to attach a torn off lace into a handbag?\n\nSolution1: It would be best to weld the lace on to the torn of spot on the handbag.\n\nSolution2: It would be best to sow the lace on to the torn of spot on the handbag.\n\nAnswer format: solution1/solution2",
@@ -9427,9 +9427,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you prepare paint to repaint a house?\n\nSolution1: You have to mix it very well.\n\nSolution2: Just start painting right out of the can.\n\nAnswer format: solution1/solution2",
@@ -9463,9 +9463,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I get debris off of my couch?\n\nSolution1: Sweep your sofa's upholstery to draw out all the loose dust and dirt from both under and above the surface.\n\nSolution2: Vacuum your sofa's upholstery to draw out all the loose dust and dirt from both under and above the surface.\n\nAnswer format: solution1/solution2",
@@ -9517,9 +9517,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Make pickled eggs.\n\nSolution1: Soak eggs in coconut oil for one week.\n\nSolution2: Soak eggs in vinegar for one week.\n\nAnswer format: solution1/solution2",
@@ -9544,9 +9544,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you marinade meat?\n\nSolution1: put seasoning all over it.\n\nSolution2: put your meat in a tupperware container and put barbecue sauce all in it, and stir it around.\n\nAnswer format: solution1/solution2",
@@ -9562,9 +9562,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you cure a dry face?\n\nSolution1: put water over it.\n\nSolution2: use a humidifier in the house.\n\nAnswer format: solution1/solution2",
@@ -9580,9 +9580,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To dig a hole to begin a garden, you can\n\nSolution1: Place a crowbar in the dirt and scoop the dirt into a pile nearby until you have a hole\n\nSolution2: Place a shovel in the dirt and scoop the dirt into a pile nearby until you have a hole\n\nAnswer format: solution1/solution2",
@@ -9634,9 +9634,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Once you have put melted HDPE plastic in a mold what should you do next?\n\nSolution1: Since the plastic will shrink as it cools be sure to clamp the mold and adjust the tightness every 5 mins.\n\nSolution2: Once the plastic has cooled sufficiently wrap a heavy duty rubber band around the mold for at least 5 mins.\n\nAnswer format: solution1/solution2",
@@ -9742,9 +9742,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you walk?\n\nSolution1: move around on your feet.\n\nSolution2: move around on your hands and knees.\n\nAnswer format: solution1/solution2",
@@ -9760,9 +9760,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To allow yourself to make edits, while writing by hand.\n\nSolution1: Use a pencil, instead of a pen, so you can erase any mistakes.\n\nSolution2: Use a pen, instead of a pencil, so you can erase any mistakes.\n\nAnswer format: solution1/solution2",
@@ -9778,9 +9778,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Concrete\n\nSolution1: seals chimney \n\nSolution2: seals soil \n\nAnswer format: solution1/solution2",
@@ -9796,9 +9796,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you terminate something?\n\nSolution1: give it a time limit.\n\nSolution2: stop it from existing.\n\nAnswer format: solution1/solution2",
@@ -9841,9 +9841,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you prepare for surgery?\n\nSolution1: eat only two meals in the 24 hours prior.\n\nSolution2: don't eat anything for 24 hours prior\n\nAnswer format: solution1/solution2",
@@ -9931,9 +9931,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To cook the carrots for the shepards pie\n\nSolution1: peel and core carrots into the thickness of a nickle. Put into a non microwavebowl with 2 tablespoons of bleach. Cover with saran wrap. Then cook for 4-6 mins on high\n\nSolution2: peel and slice carrots into the thickness of a nickle. Put into a microwave owl with 2 tablespoons of water. Cove with saran wrap. Then cook for 4-6 mins on high\n\nAnswer format: solution1/solution2",
@@ -10039,9 +10039,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: blankets\n\nSolution1: keeps the sun warm\n\nSolution2: keeps dogs warm\n\nAnswer format: solution1/solution2",
@@ -10084,9 +10084,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: sofa\n\nSolution1: sits floor \n\nSolution2: sits cardboard box \n\nAnswer format: solution1/solution2",
@@ -10174,18 +10174,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Remove hair from hair brush.\n\nSolution1: Cover brush head with pantyhose, use a pen to push down and collect hair.\n\nSolution2: Cover brush head with saran wrap, use a pen to push down and collect hair.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: ice pick\n\nSolution1: can poke through metal armor \n\nSolution2: can poke through cloth \n\nAnswer format: solution1/solution2",
@@ -10201,9 +10201,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: sunbathing\n\nSolution1: makes freckles appear\n\nSolution2: makes stripes appear\n\nAnswer format: solution1/solution2",
@@ -10237,18 +10237,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To smooth the edge of the bar stool seat.\n\nSolution1: Take the router with round over bit. Go around the edges of the bar stool seat. Round the edges on the top of the seat\n\nSolution2: Take the router with round over bit. Go around the edges of the bar stool seat. Round the edges on the bottom of the seat.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To get a rest when you're swimming in open water,\n\nSolution1: float on your stomach and relax.\n\nSolution2: float on your back and relax.\n\nAnswer format: solution1/solution2",
@@ -10300,9 +10300,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make a payment with a card chip\n\nSolution1: Bring your purchases to the register and tell the clerk you will pay with a debit card. Once you are asked to insert your card, place your card in the machine with the exposed chip facing up. Press all buttons needed if the card reader demands credentials\n\nSolution2: Bring your purchases to the register and tell the clerk you will pay with a debit card. Once you are asked to insert your card, place your card in the machine with the exposed chip facing up. Press any buttons needed if the card reader demands credentials.\n\nAnswer format: solution1/solution2",
@@ -10435,9 +10435,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to identify poison oak\n\nSolution1: The leaves of this plant look a lot like oak leaves, they usually grow in clusters of three. But some kinds of poison oak have five, seven or nine leaves per cluster. Poison oak usually grows as a shrub in the Southeast or along the West Coast. It bears clusters of greenish yellow or white berries.\n\nSolution2: The leaves of this plant look a lot like oak leaves, and like poison ivy, they usually grow in clusters of three. But some kinds of poison oak have five, seven or nine leaves per cluster. Poison oak usually grows as a shrub in the Southeast or along the West Coast. It bears clusters of pink  or purple berries.\n\nAnswer format: solution1/solution2",
@@ -10525,9 +10525,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: candy dish\n\nSolution1: can be used to store sewing supplies \n\nSolution2: can be used to store carpets \n\nAnswer format: solution1/solution2",
@@ -10588,27 +10588,27 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I pack dirty laundry in a suitcase for the way home?\n\nSolution1: Pile your dirty clothing items into a zip it compressor bag and place in the bottom of your suitcase.\n\nSolution2: Pile your dirty clothing items into a zip it compressor box and place in the bottom of your suitcase.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To delint your couch pillows.\n\nSolution1: Using a piece of masking tape with the sticky side outward, slowly brush down the sides of the pillow.\n\nSolution2: Using a piece of masking tape with the sticky side inward, slowly brush down the sides of the pillow.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: an axe\n\nSolution1: can smash a leaf open\n\nSolution2: can smash an apple tree open\n\nAnswer format: solution1/solution2",
@@ -10651,9 +10651,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Reheat rice\n\nSolution1: Soak rice in water and and microwave.\n\nSolution2: Place ice cube on rice and microwave.\n\nAnswer format: solution1/solution2",
@@ -10822,9 +10822,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I dry boiled potatoes?\n\nSolution1: Drain and place on a paper towel in the sink with water running.\n\nSolution2: Drain and place on a paper towel on the counter.\n\nAnswer format: solution1/solution2",
@@ -10867,18 +10867,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make a basic sled?\n\nSolution1: Take a panel of wood and secure smooth metal strips to the bottom of the wood and in the middle place a wooden handle for support\n\nSolution2: Take a panel of wood and secure smooth metal strips to the top of the wood and in the back place a wooden handle for support\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: fist\n\nSolution1: can punch a wall without much pain\n\nSolution2: can punch a pillow without much pain\n\nAnswer format: solution1/solution2",
@@ -10912,9 +10912,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to prepare a cast iron skillet if stains won't come free?\n\nSolution1: Run water and soap over the bottom of the skillet and scrub with steel wool then place in  warm water to dry\n\nSolution2: Run water and soap over the entire skillet and scrub with steel wool then place in a warm oven to dry\n\nAnswer format: solution1/solution2",
@@ -10993,9 +10993,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: What ingredients are needed to make English Breakfast Muffins?\n\nSolution1: 1 beaten egg        20 grams of sugar        5 grams of salt        20 grams of softened unsalted butter (cut into cubes)        300 grams of weak white bread flour        7 grams of hard bake yeast        Approximately 200ml of full fat milk        Corn meal (for dusting furniture)\n\nSolution2: 1 beaten egg        20 grams of sugar        5 grams of salt        20 grams of softened unsalted butter (cut into cubes)        300 grams of strong white bread flour        7 grams of easy bake yeast        Approximately 200ml of full fat milk        Corn meal (for dusting)\n\nAnswer format: solution1/solution2",
@@ -11227,9 +11227,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to cut acidic marinara sauce\n\nSolution1: add sour cream and a bit of honey.\n\nSolution2: add a few teaspoons of sugar\n\nAnswer format: solution1/solution2",
@@ -11263,18 +11263,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you cut a baked polymer clay stick in order to make clay sprinkles?\n\nSolution1: Press a razor into the stick about 1/12 of an inch from the end of the stick. Apply pressure until the razor slices partially through the clay stick.\n\nSolution2: Press a razor into the stick about 1/12 of an inch from the end of the stick. Apply pressure until the razor slices completely through the clay stick.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: What do you use to make a DIY lotion bar smell good?\n\nSolution1: You can use scented oils, about ten drops will do.\n\nSolution2: You can use oils and add as many drops as you'd like.\n\nAnswer format: solution1/solution2",
@@ -11353,9 +11353,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you make glow water?\n\nSolution1: Get a bottle of Mountain Dew and pour it into a glass till 1/4th of soda is left. Add a pinch of baking soda and few drops of hydrogen peroxide into the bottle. Shake the mixture properly.\n\nSolution2: Get a bottle of Mountain Dew and pour it into a glass till 1/4th of soda is left. Add a pinch of baking powder and few drops of hydrogen peroxide into the bottle. Shake the mixture properly.\n\nAnswer format: solution1/solution2",
@@ -11434,9 +11434,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can you neatly cut a cake?\n\nSolution1: Run the knife you use for cutting under hot water, dry the knife and cut, repeat as needed.\n\nSolution2: Run the knife you use for cutting under cold water, dry the knife and cut, repeat as needed.\n\nAnswer format: solution1/solution2",
@@ -11623,9 +11623,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To use greenhouse space effectively.\n\nSolution1: Put raised beds towards the edges of the greenhouse and leave room for adding hydroponics later.\n\nSolution2: Put raised beds covering the entire floor of the greenhouse and worry about room for adding hydroponics later.\n\nAnswer format: solution1/solution2",
@@ -11686,9 +11686,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to quickly dry a towel?\n\nSolution1: Once the towel is washed, twist and strain it in the bathtub then dry in the dryer and hang outside afterward\n\nSolution2: Before the towel is washed, twist and strain it in the bathtub then dry in the dryer and hang outside afterward\n\nAnswer format: solution1/solution2",
@@ -11776,9 +11776,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I choose good apples at the grocery store?\n\nSolution1: Look for obvious bad spots. If you see spots that are rotten, dark brown, or too soft, the apple has likely already gone bad. ...    Look for cuts. ...    Examine the color. ...    Check the apple for firmness. ...    Sniff the apple to detect foul odor.\n\nSolution2: Look for obvious bad spots. If you see spots that are rotten, dark brown, or too soft, the apple has likely already gone bad. ...    Look for cuts cause those are the good ones. ...    Examine the color. ...    Check the apple for firmness. ...    Sniff the apple to detect foul odor.\n\nAnswer format: solution1/solution2",
@@ -11803,9 +11803,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: smoke\n\nSolution1: can mark paper with color\n\nSolution2: can mark air with color\n\nAnswer format: solution1/solution2",
@@ -11839,9 +11839,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To tell when cabbage is done cooking, you should\n\nSolution1: Wait for the cabbage to become completely brown\n\nSolution2: Wait for the cabbage to become slightly translucent\n\nAnswer format: solution1/solution2",
@@ -12019,9 +12019,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I make a cool hanging shelf?\n\nSolution1: Use 2 old belts, loop each and string one or 2 boards between the belts, nail the boards to the belts so they are even and horizontal.\n\nSolution2: Use 2 old belts, loop each and string one or 2 boards between the belts, nail the boards to the belts so they are even and vertical.\n\nAnswer format: solution1/solution2",
@@ -12118,9 +12118,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: hot pad\n\nSolution1: can take away nausea quickly\n\nSolution2: can take away stomach ache quickly\n\nAnswer format: solution1/solution2",
@@ -12325,9 +12325,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Avoid static in clothes without dryer sheets.\n\nSolution1: Include two saran wrap balls in dryer.\n\nSolution2: Include two foil balls in dryer.\n\nAnswer format: solution1/solution2",
@@ -12370,9 +12370,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Buy name brand clothing inexpensively.\n\nSolution1: Sew your own clothes. Print out labels from clothes that you like and sew them on. Great way to save money.\n\nSolution2: Shop thrift stores. Be picky and know your labels. You can always find a great bargain there.\n\nAnswer format: solution1/solution2",
@@ -12496,9 +12496,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To easily prep garlic.\n\nSolution1: Remove the outer layers of skin and break the garlic into individual cloves. Place cloves in a large garbage bag (I used an old coffee tub). Shake your container as hard as you can for about a minute or two, then check out your garlic. Most of the skins should come right off the cloves. If not, give them another quick shake. Some may still need to be pealed by hand, but I guarantee this will save you a lot of time prepping your garlic.\n\nSolution2: Remove the outer layers of skin and break the garlic into individual cloves. Place cloves in a large Tupperware container (I used an old coffee tub). Shake your container as hard as you can for about a minute or two, then check out your garlic. Most of the skins should come right off the cloves. If not, give them another quick shake. Some may still need to be pealed by hand, but I guarantee this will save you a lot of time prepping your garlic.\n\nAnswer format: solution1/solution2",
@@ -12586,9 +12586,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Sanitize second hand toys.\n\nSolution1: Soak toys in cold water for a few minutes.\n\nSolution2: Soak toys in bleach for a few minutes.\n\nAnswer format: solution1/solution2",
@@ -12631,9 +12631,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Knowing how much water to add to a homemade self watering system.\n\nSolution1: About every week add roughly a gallon of water to a corner of the planter, as to not drown the plants.\n\nSolution2: About every week add roughly a ounce of water to a corner of the planter, as to not drown the plants.\n\nAnswer format: solution1/solution2",
@@ -12667,9 +12667,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To make Langos more Vegan friendly.\n\nSolution1: Langos' ingredients are Vegan friendly except for the olive oil.\n\nSolution2: Langos' ingredients are Vegan friendly except for the cheese and sour cream.\n\nAnswer format: solution1/solution2",
@@ -12712,18 +12712,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Mix a screwdriver drink\n\nSolution1: Mix a cup of orange juice with a shot of quality vodka and stir with a screwdriver. Add ice and enjoy\n\nSolution2: Mix a cup of orange juice with a shot of quality vodka and stir with a spoon. Add ice and enjoy\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Get a babysitting job.\n\nSolution1: Not old enough to work? You can babysit. Let your parents know and ask them to tell their friends.Make sure to charge enough and have fun with the kids.\n\nSolution2: Not old enough to work? You can babysit. Let your parents know and ask them to tell their friends.Make sure to charge enough and have fun with the cows.\n\nAnswer format: solution1/solution2",
@@ -12766,9 +12766,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: forks\n\nSolution1: are shaped like curlers \n\nSolution2: are shaped like hayfork \n\nAnswer format: solution1/solution2",
@@ -12802,9 +12802,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To dust your ceiling fan\n\nSolution1: Use a pillow case, and put it over each blade individually, and pull towards you to keep the dust inside of the pillow case.\n\nSolution2: Use a leaf blower, point it towards each blade individually, and turn it on to spray the dust around the room.\n\nAnswer format: solution1/solution2",
@@ -12856,9 +12856,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Add seed identifiers to new plants.\n\nSolution1: Clip clothespins to planter rims.\n\nSolution2: Clip binder clips to planter rims.\n\nAnswer format: solution1/solution2",
@@ -12874,9 +12874,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I quickly and easily remove strawberry stems?\n\nSolution1: Take a straw and from the top of the strawberry push the straw through the center of the strawberry until the stem pops off.\n\nSolution2: Take a straw and from the bottom of the strawberry push the straw through the center of the strawberry until the stem pops off.\n\nAnswer format: solution1/solution2",
@@ -12901,9 +12901,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: What is the best thing to brush onto your skillet to season it?\n\nSolution1: Frosting\n\nSolution2: Crisco\n\nAnswer format: solution1/solution2",
@@ -13036,18 +13036,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you ask a question on paper?\n\nSolution1: write a question mark before the question.\n\nSolution2: write a question mark after the question.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I decorate a green paper Christmas tree cone?\n\nSolution1: These paper green cone trees look especially nice with the addition of ribbon, glitter and beads glued on in a random fashion, use a glue gun to affix a metallic bow to the top.\n\nSolution2: These paper green cone trees look especially nice with the addition of ribbon, glitter and bugs glued on in a random fashion, use a glue gun to affix a metallic bow to the top.\n\nAnswer format: solution1/solution2",
@@ -13063,9 +13063,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Pick up broken glass.\n\nSolution1: Use a damp rag and toss.\n\nSolution2: Use a damp tissue paper and toss.\n\nAnswer format: solution1/solution2",
@@ -13162,9 +13162,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To keep fruits and vegetables fresher, longer in the fridge.\n\nSolution1: Place a couple of spoons in the crisper of the fridge. They\u2019ll absorb the airborne moisture and keep your fruits and vegetables fresher, longer.\n\nSolution2: Place a couple of sponges in the crisper of the fridge. They\u2019ll absorb the airborne moisture and keep your fruits and vegetables fresher, longer.\n\nAnswer format: solution1/solution2",
@@ -13189,9 +13189,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: pan\n\nSolution1: can cook bacon \n\nSolution2: can cook dough \n\nAnswer format: solution1/solution2",
@@ -13225,9 +13225,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I turn on a desktop computer?\n\nSolution1: You need to insert a screwdriver in an electrical socket while your second hands touches two metal pins on the motherboard.\n\nSolution2: Using a metal screwdriver, you need to connect two metal pins on the motherboard (power and ground).\n\nAnswer format: solution1/solution2",
@@ -13297,9 +13297,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: What ingredients are needed to make decorative lotion bar?\n\nSolution1: 60% Butters (Half Cocoa Butter or Mango Butter and half Shea Butter are good butters to use)    -15% Candle Wax    -15% Steric Acid (it's also a type of wax)    -10 Sweet Almond Oil or other light oil (examples include sunflower or grapeseed oil)\n\nSolution2: 60% Butters (Half Cocoa Butter or Mango Butter and half Shea Butter are good butters to use)    -15% Emulsifying Wax    -15% Steric Acid (it's also a type of wax)    -10 Sweet Almond Oil or other light oil (examples include sunflower or grapeseed oil)\n\nAnswer format: solution1/solution2",
@@ -13315,9 +13315,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To help prevent tangles in dog fur\n\nSolution1: put a few drops of coconut milk in the bath water when bathing them.\n\nSolution2: put a few drops of coconut oil in the bath water when bathing them.\n\nAnswer format: solution1/solution2",
@@ -13540,9 +13540,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I melt beeswax?\n\nSolution1: Place in a bowl and freeze.\n\nSolution2: Place in a bowl and microwave.\n\nAnswer format: solution1/solution2",
@@ -13720,9 +13720,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Remove odor from microwave\n\nSolution1: Crush almonds and place in microwave for a few hours.\n\nSolution2: Crush activated charcoal and place in microwave for a few hours.\n\nAnswer format: solution1/solution2",
@@ -13747,9 +13747,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you stream a movie?\n\nSolution1: watch it on your tv.\n\nSolution2: watch it over the internet.\n\nAnswer format: solution1/solution2",
@@ -13765,18 +13765,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a double boiler\n\nSolution1: using a saucepan with about an inch of warm water and adding a glass Pyrex bowl that fits on bottom and touches the water\n\nSolution2: using a saucepan with about an inch of warm water and adding a glass Pyrex bowl that fits on top but does not touch the water\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To clean off the blinds in your home.\n\nSolution1: Take a duster or a rag even and wipe the dust off the blinds.\n\nSolution2: Take a duster or a rag even and wipe the dust into the blinds.\n\nAnswer format: solution1/solution2",
@@ -13873,18 +13873,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do I take the best group selfie on your phone.\n\nSolution1: Use the timer on your phone so you have time to get in place and then hold your arm as far out as you can and up above you and your friends.\n\nSolution2: Use the timer on your phone so you have time to get in place and then hold your arm as close as you can and up above you and your friends.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you show you're married, with jewelry?\n\nSolution1: wear your wedding ring on your ring finger on . your right hand.\n\nSolution2: wear your wedding ring on your ring finger on your left hand.\n\nAnswer format: solution1/solution2",
@@ -13918,9 +13918,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: foot\n\nSolution1: can wear a sock \n\nSolution2: can wear a sombrero \n\nAnswer format: solution1/solution2",
@@ -13963,9 +13963,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To finish your typing project without running to the store when you are typing and your white out bottle empties,\n\nSolution1: use white fingernail polish.\n\nSolution2: use white flour and water.\n\nAnswer format: solution1/solution2",
@@ -14035,9 +14035,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you power through something?\n\nSolution1: keep going no matter what.\n\nSolution2: turn it on.\n\nAnswer format: solution1/solution2",
@@ -14107,9 +14107,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To assemble cardboard together to make a shelf, you can\n\nSolution1: Tape the cardboard together\n\nSolution2: Sew the cardboard together\n\nAnswer format: solution1/solution2",
@@ -14197,9 +14197,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: washcloth\n\nSolution1: can wipe away pores on the skin\n\nSolution2: can wipe away sweat on the skin\n\nAnswer format: solution1/solution2",
@@ -14260,9 +14260,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: I think I have too much mint growing in my garden, should I get rid of it all?\n\nSolution1: Peppermint is a wonder. It smells great to us humans but insects like aphids and beetles literally eat it. It is invasive though so cut it back and be prepared to make lots of peppermint tea. You can't really ever drink too much peppermint tea.\n\nSolution2: Peppermint is a wonder. It smells great to us humans but insects like aphids and beetles literally hate it. It is invasive though so cut it back but leave some to help keep your garden plot clear of pests. You can't really ever have too much mint.\n\nAnswer format: solution1/solution2",
@@ -14287,9 +14287,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a day seem easier,\n\nSolution1: do the most difficult task before sleeping.\n\nSolution2: do the most difficult task in the morning.\n\nAnswer format: solution1/solution2",
@@ -14422,9 +14422,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a cheap terrarium for gecko.\n\nSolution1: Use glass as the material is transparent and has adequate heat retention for the reptile.\n\nSolution2: Use acrylic as it is way cheaper than glass and still has a lot of pass-through for light to get in.\n\nAnswer format: solution1/solution2",
@@ -14458,18 +14458,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to Tell if an Avocado is Bad\n\nSolution1: Different varieties of avocado have different skin colours. The most common variety of avocado, the Hass, will change colour to very dark green or purple colour when ripe.\n\nSolution2: Different varieties of avocado have different skin colours. The most common variety of avocado, the Hass, will change colour to very light green or purple colour when ripe.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: blanket\n\nSolution1: can cover a sofa from dirt\n\nSolution2: can make a sofa invisible\n\nAnswer format: solution1/solution2",
@@ -14539,9 +14539,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: what pan to use for frying eggs\n\nSolution1: Nonstick pans are perfect for frying eggs\n\nSolution2: crock pots are the perfect for frying eggs.\n\nAnswer format: solution1/solution2",
@@ -14692,9 +14692,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: floss\n\nSolution1: can remove gunk from  plastic toys in tight crevices\n\nSolution2: can remove gunk from  tupperware in tight crevices\n\nAnswer format: solution1/solution2",
@@ -14782,9 +14782,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make more room in a closet\n\nSolution1: add an over the door rack for extra storage\n\nSolution2: add an over the washing machine rack for extra storage\n\nAnswer format: solution1/solution2",
@@ -14809,18 +14809,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: basket\n\nSolution1: can enclose a safety pin \n\nSolution2: can enclose a hula hoop \n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I clean my toenails of debris?\n\nSolution1: Take a pencil tip and work under your nails with it to get the junk out from under them.\n\nSolution2: Take a pencil eraser and work under your nails with it to get the junk out from under them.\n\nAnswer format: solution1/solution2",
@@ -14854,9 +14854,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To become frightened of a movie again after seeing it before,\n\nSolution1: look up reviews for the movie to better understand it.\n\nSolution2: wait a few years before watching it a second time.\n\nAnswer format: solution1/solution2",
@@ -14881,18 +14881,18 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you exchange an item?\n\nSolution1: take the item and reciept back to the original store, and get another item to keep in its place.\n\nSolution2: take the item back to the original store, and switch it for something else you want to keep.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Cure a headache with a drink.\n\nSolution1: Brew some ginger tea.\n\nSolution2: Brew some kool-aid.\n\nAnswer format: solution1/solution2",
@@ -15061,9 +15061,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I get rid of dark circles under my eyes?\n\nSolution1: Simply soak cotton balls in rose water. Place those cotton balls under your lips and leave them for ten minutes.\n\nSolution2: Simply soak cotton balls in rose water. Place those cotton balls under your eyes and leave them for ten minutes.\n\nAnswer format: solution1/solution2",
@@ -15079,9 +15079,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Prevent slammed doors from injuring kids' fingers.\n\nSolution1: Put pasta noodle on door side.\n\nSolution2: Put pool noodle on door side.\n\nAnswer format: solution1/solution2",
@@ -15322,9 +15322,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you use the flash on a nikon b500?\n\nSolution1: press flash.\n\nSolution2: pop the flash up.\n\nAnswer format: solution1/solution2",
@@ -15403,9 +15403,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how do you use a diving board?\n\nSolution1: jump off of it into the pool\n\nSolution2: slide off of it into the pool.\n\nAnswer format: solution1/solution2",
@@ -15448,9 +15448,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make Orange Nut fudge at home.\n\nSolution1: Mix 3 cups granulated sugar,  3/4 cup margarine, and  2/3 cup evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.  Remove from heat and stir in 12 ounce semi sweet chocolate chips until melted and thoroughly combined. Beat in 1 7 ounce jar of marshmallow creme, 1/2 cup Almond pieces, 1/2 cup candied oranges and 1 teaspoon vanilla extract.  Transfer fudge to Greased 8 x 13\" pan and let cool before cutting into squares.\n\nSolution2: Mix 3 cups granulated sugar,  3/4 cup margarine, and  2/3 cup evaporated milk in a large, heavy saucepan over medium heat, stirring to dissolve sugar. Bring mixture to a full boil for 5 minutes, stirring constantly.  Remove from heat and stir in 12 ounce semi sweet chocolate chips until melted and thoroughly combined. Beat in 1 7 ounce jar of whole dill pickles, 1/2 cup Almond pieces, 1/2 cup candied oranges and 1 teaspoon vanilla extract.  Transfer fudge to Greased 8 x 13\" pan and let cool before cutting into squares.\n\nAnswer format: solution1/solution2",
@@ -15619,9 +15619,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you boil sweet potatoes?\n\nSolution1: Boil until potatoes are tender when pierced with a fork, 15 to 20 minutes. Note, it will take less time if you cut the sweet potatoes in smaller pieces.\n\nSolution2: Boil until potatoes are tender when pierced with a fork, 15 to 20 minutes. Note, it will take less time if you mix the sweet potatoes in smaller pieces.\n\nAnswer format: solution1/solution2",
@@ -15691,9 +15691,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: When can I see the moon\n\nSolution1: You can see the moon the best when it's nighttime\n\nSolution2: You can see the moon the worst when it's nighttime\n\nAnswer format: solution1/solution2",
@@ -15790,9 +15790,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How to clean a fish globe?\n\nSolution1: Take the fish out and put in another cup of water. Drain the water from the globe and clean it using water.\n\nSolution2: Take the fish out and put in another cup of oil. Drain the water from the globe and clean it using oil.\n\nAnswer format: solution1/solution2",
@@ -15871,9 +15871,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: Eat a well balanced diet\n\nSolution1: Fruit helps to satisfy your sweet tooth thanks to its natural sugars\n\nSolution2: Vegetables helps to satisfy your sweet tooth thanks to its natural sugars\n\nAnswer format: solution1/solution2",
@@ -16033,9 +16033,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make a jicama-mango slaw\n\nSolution1: Toss julienned mango and jicama, red onion, radish and cilantro; add cumin, salt and cayenne. Drizzle with olive oil and lime juice.\n\nSolution2: Toss julienned mango and jicama, red onion, radish and cilantro; add cumin, salt and cayenne. Drizzle with olive puree and caviar and lime juice.\n\nAnswer format: solution1/solution2",
@@ -16060,27 +16060,27 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To make a photocopy of a page in a book,\n\nSolution1: find the page in the book, place it onto the glass of the photocopier with the page facing up, then press the copy button.\n\nSolution2: find the page in the book, place it onto the glass of the photocopier with the page facing down, then press the copy button.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How can I tell if a watermelon will be watery?\n\nSolution1: The taller it is the higher the water content.\n\nSolution2: The shorter it is the higher the water content.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you make a buttermilk substitute for pancakes?\n\nSolution1: To make a buttermilk substitute, take one cup of milk and empty out one tablespoon of it. Replace the tablespoon of milk with a tablespoon of white vinegar, and leave for twenty minutes.\n\nSolution2: To make a buttermilk substitute, take one cup of milk and empty out one cup of it. Replace the tablespoon of milk with a tablespoon of white vinegar, and leave for twenty minutes.\n\nAnswer format: solution1/solution2",
@@ -16096,27 +16096,27 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To clean your glasses easily,\n\nSolution1: wash them in the sink with soap.\n\nSolution2: wipe them on the bottom of your shirt.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: Excavator\n\nSolution1: Dig Underwater \n\nSolution2: Dig Cement \n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": false
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: To attach batting to a wooden chair, you can\n\nSolution1: Place the batting where you want it and use a nail gun to hold it in place\n\nSolution2: Place the batting where you want it and use a staple gun to hold it in place\n\nAnswer format: solution1/solution2",
@@ -16168,9 +16168,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: garage\n\nSolution1: can be used to store  houses in\n\nSolution2: can be used to store  tires in\n\nAnswer format: solution1/solution2",
@@ -16186,9 +16186,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: To comfort a homesick child while they're away at camp,\n\nSolution1: send them special letters.\n\nSolution2: give them space to get over it.\n\nAnswer format: solution1/solution2",
@@ -16276,9 +16276,9 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you dry nails fast after painting them?\n\nSolution1: Fill a bowl with water and dry cubes. Submerge your nails in water for two to three minutes.\n\nSolution2: Fill a bowl with water and ice cubes. Submerge your nails in water for two to three minutes.\n\nAnswer format: solution1/solution2",
@@ -16348,9 +16348,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: how to make a greek cucumber salad\n\nSolution1: Mix red onion slices, chopped cucumber, kalamata olive halves, dill and feta. Dress with olive oil and lemon juice; season with salt and pepper.\n\nSolution2: Mix red onion slices, chopped cucumber, kalamata olive halves, dill and feta. Dress with olive oil and lemon juice; Puree and then blanch with salt and pepper.\n\nAnswer format: solution1/solution2",
@@ -16393,18 +16393,18 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you light a match?\n\nSolution1: quickly run the black end over the matchbox to ignite it.\n\nSolution2: dip it onto asphalt for 2 seconds and it should ignite.\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution1",
-        "pred": "solution1",
-        "flag": true
+        "output_pred": "the correct answer is solution2",
+        "pred": "solution2",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: How to make Strawberry Kiwi Sauce at home.\n\nSolution1: Boil 1 cup Kiwi (chopped), 1 cup chopped strawberries  with 3/4 cup water and  1 cup Olive pits for 30 min., stirring to keep from scorching over med. heat on the stove top.\n\nSolution2: Boil 1 cup Kiwi (chopped), 1 cup chopped strawberries  with 3/4 cup water and  1 cup sugar for 30 min., stirring to keep from scorching over med. heat on the stove top.\n\nAnswer format: solution1/solution2",
@@ -16429,27 +16429,27 @@
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: to store cast iron pans so they stay dry\n\nSolution1: store with old rags or beach towels between them\n\nSolution2: store with old rags or paper towel between them\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: a sponge\n\nSolution1: can clean a car properly\n\nSolution2: can clean teeth properly\n\nAnswer format: solution1/solution2",
         "input": "",
         "output": "the correct answer is solution1",
         "answer": "solution1",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": false
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": true
     },
     {
         "instruction": "Please choose the correct solution to the question: How do you prepare paper for papier mache pulp?\n\nSolution1: Find old cardboard boxes and make them flat. Cut them with scissors until you have a full bucket of tiny paper pieces.\n\nSolution2: Find old newspaper or tissue paper from Christmas. Cut them with scissors until you have a full bucket of tiny paper pieces.\n\nAnswer format: solution1/solution2",
@@ -16519,9 +16519,9 @@
         "input": "",
         "output": "the correct answer is solution2",
         "answer": "solution2",
-        "output_pred": "the correct answer is solution2",
-        "pred": "solution2",
-        "flag": true
+        "output_pred": "the correct answer is solution1",
+        "pred": "solution1",
+        "flag": false
     },
     {
         "instruction": "Please choose the correct solution to the question: A power washer\n\nSolution1: can clean an aging cruise liner clear of grime\n\nSolution2: can clean a dirty white t shirt clear of grime\n\nAnswer format: solution1/solution2",

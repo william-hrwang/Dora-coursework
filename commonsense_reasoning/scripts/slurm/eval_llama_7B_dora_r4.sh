@@ -1,8 +1,8 @@
 #!/bin/bash
-#SBATCH --job-name=eval_llama_7B_dora                     # task name
-#SBATCH --time=3:0:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
+#SBATCH --job-name=ev_llama_7B_r4                     # task name
+#SBATCH --time=8:00:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
 #SBATCH --mem=50G                                                       # memory requirement
-#SBATCH --cpus-per-task=5                                              # number of CPU cores
+#SBATCH --cpus-per-task=10                                              # number of CPU cores
 #SBATCH --gpus=nvidia_h100_80gb_hbm3_2g.20gb:1                                          # GPU requirement
 #SBATCH --output=slurm_logs/%x/%A.out           # standard output file (%A=jobID, %a=arrayID)
 #SBATCH --error=slurm_logs/%x/%A.err            # error output file
@@ -24,44 +24,4 @@ nvidia-smi
 
 # run the script
 # Evaluate models
-# sh ./scripts/llama_7B_Dora_eval.sh ./finetuned_result/llama_7B/dora_r4 0
-
-CUDA_VISIBLE_DEVICES=0 python commonsense_evaluate.py \
-    --model LLaMA-7B \
-    --adapter DoRA \
-    --dataset hellaswag \
-    --base_model 'yahma/llama-7b-hf' \
-    --batch_size 1 \
-    --lora_weights ./finetuned_result/llama_7B/dora_r4 | tee -a ./finetuned_result/llama_7B/dora_r4/hellaswag.txt
-
-CUDA_VISIBLE_DEVICES=0 python commonsense_evaluate.py \
-    --model LLaMA-7B \
-    --adapter DoRA \
-    --dataset winogrande \
-    --base_model 'yahma/llama-7b-hf' \
-    --batch_size 1 \
-    --lora_weights ./finetuned_result/llama_7B/dora_r4 | tee -a ./finetuned_result/llama_7B/dora_r4/winogrande.txt
-
-CUDA_VISIBLE_DEVICES=0 python commonsense_evaluate.py \
-    --model LLaMA-7B \
-    --adapter DoRA \
-    --dataset ARC-Challenge \
-    --base_model 'yahma/llama-7b-hf' \
-    --batch_size 1 \
-    --lora_weights ./finetuned_result/llama_7B/dora_r4 | tee -a ./finetuned_result/llama_7B/dora_r4/ARC-Challenge.txt
-
-CUDA_VISIBLE_DEVICES=0 python commonsense_evaluate.py \
-    --model LLaMA-7B \
-    --adapter DoRA \
-    --dataset ARC-Easy \
-    --base_model 'yahma/llama-7b-hf' \
-    --batch_size 1 \
-    --lora_weights ./finetuned_result/llama_7B/dora_r4 | tee -a ./finetuned_result/llama_7B/dora_r4/ARC-Easy.txt
-
-CUDA_VISIBLE_DEVICES=0 python commonsense_evaluate.py \
-    --model LLaMA-7B \
-    --adapter DoRA \
-    --dataset openbookqa \
-    --base_model 'yahma/llama-7b-hf' \
-    --batch_size 1 \
-    --lora_weights ./finetuned_result/llama_7B/dora_r4 | tee -a ./finetuned_result/llama_7B/dora_r4/openbookqa.txt
+sh ./scripts/llama_7B_Dora_eval.sh ./finetuned_result/llama_7B/dora_r4 0

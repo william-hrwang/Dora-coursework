@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=eval_llama2_7B_dora_r16                     # task name
-#SBATCH --time=5:00:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
+#SBATCH --time=12:00:00                                               # maximum time (D-HH:MM:SS, 2-00:00:00)
 #SBATCH --mem=50G                                                       # memory requirement
-#SBATCH --cpus-per-task=5                                              # number of CPU cores
+#SBATCH --cpus-per-task=10                                              # number of CPU cores
 #SBATCH --gpus=nvidia_h100_80gb_hbm3_2g.20gb:1                                          # GPU requirement
 #SBATCH --output=slurm_logs/%x/%A.out           # standard output file (%A=jobID, %a=arrayID)
 #SBATCH --error=slurm_logs/%x/%A.err            # error output file
